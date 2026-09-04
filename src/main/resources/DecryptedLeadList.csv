@@ -1,0 +1,592 @@
+Id,BranchCode,ChanelType,CityCode,ConversationId,CreatedAt,CustomeId,Email,FirstName,LastName,MobileNumber,Pincode,ProductCode,ProductName
+Lead001,4016,ESFB Website,Sri Potti Sriramulu Nellore,Web-CreateLead-20250419101052481,4/19/2025 10:10,NULL,suresh.vandana1271@gmail.com,Vandana Suresh Babu,dummy,7330853265,524002,3068,lap-camp-eng
+Lead002,4030,ESFB Website,Ananthapuramu,Web-CreateLead-20250419101100873,4/19/2025 10:11,NULL,rajasekhar20634@gmail.com,Kori,Rajasekhar,8297964055,515871,INV08,atal-pension-yojna
+Lead003,9076,ESFB Website,Latur,Web-CreateLead-20250419101803777,4/19/2025 10:18,NULL,purushottamsurwase51@gmail.com,Purushottam Balasaheb Surwase,dummy,9158763408,413512,7181,Loan-Against-Property
+Lead004,16076,ESFB Website,Bhilwara,Web-CreateLead-20250419101807405,4/19/2025 10:18,NULL,Vijesh.sreedharan@gmail.com,Vijesh,K S,7550124663,311604,7181,loan-against-property
+Lead005,4001,ESFB Website,NTR,Web-CreateLead-20250419101810106,4/19/2025 10:18,NULL,buruguviswas@gmail.com,Viswas,Burugu,8886875378,520004,3068,credit-card
+Lead006,16063,ESFB Website,Bharatpur,Web-CreateLead-20250419101930393,4/19/2025 10:19,NULL,munsarifpahat4@gmail.com,Sapat,Khan,9588241664,321024,1005,regular-savings-account
+Lead007,16063,ESFB Website,Bharatpur,Web-CreateLead-20250419102005180,4/19/2025 10:20,NULL,munsarifpahat4@gmail.com,Sapat,dummy,9588241664,321024,3068,Current-Account
+Lead008,20001,ESFB Website,North-West Delhi,Web-CreateLead-20250419102005183,4/19/2025 10:20,NULL,akashakash86825@gmail.com,Akash,Vishwakarma,9311514508,110040,1005,regular-savings-account
+Lead009,4001,ESFB Website,NTR,Web-CreateLead-20250419102121140,4/19/2025 10:21,NULL,buruguviswas@gmail.com,Viswas,dummy,8886875378,520004,3068,Credit-card
+Lead010,5002,ESFB Website,Hyderabad,Web-CreateLead-20250419102131338,4/19/2025 10:21,NULL,dumpa.mahipal@gmail.com,Dumpa Mahipal,dummy,9603107341,508113,3068,lap-camp-eng
+Lead011,5002,ESFB Website,Hyderabad,Web-CreateLead-20250419102148499,4/19/2025 10:21,NULL,dumpa.mahipal@gmail.com,Dumpa Mahipal,dummy,9603107341,508113,3068,lap-camp-eng
+Lead012,5002,ESFB Website,Hyderabad,Web-CreateLead-20250419102217868,4/19/2025 10:22,NULL,dumpa.mahipal@gmail.com,Dumpa Mahipal,dummy,9603107341,508113,3068,lap-camp-eng
+Lead013,20004,ESFB Website,East Delhi,Web-CreateLead-20250419102254605,4/19/2025 10:22,NULL,ankursharma298@gmail.com,Ankur,Sharma,8750351411,110053,1005,regular-savings-account
+Lead014,5002,ESFB Website,Hyderabad,Web-CreateLead-20250419102413274,4/19/2025 10:24,NULL,dumpa.mahipal@gmail.com,Dumpa Mahipal,dummy,9603107341,508113,3068,lap-camp-eng
+Lead015,16001,ESFB Website,Jaipur,Web-CreateLead-20250419102502715,4/19/2025 10:25,NULL,cmsherani01@gmail.com,chand,mohammed,9887511270,302012,1005,regular-savings-account
+Lead016,9091,ESFB Website,Pune,Web-CreateLead-20250419103718242,4/19/2025 10:37,NULL,poojashewade20@gmail.com,Pooja Shewade,dummy,9503924625,390019,7181,Loan-Against-Property
+Lead017,11008,ESFB Website,Karnal,Web-CreateLead-20250419104037265,4/19/2025 10:40,NULL,pardeepthakur0789@gmail.com,Pardeep,Kumar,9716625939,132054,7841,used-car-finance
+Lead018,4012,ESFB Website,Rangareddi,Web-CreateLead-20250419104151846,4/19/2025 10:41,NULL,karnekrishnavamshi68@gmail.com,Karne,Krishna vamshi,9398367512,500074,1005,regular-savings-account
+Lead019,4025,ESFB Website,Warangal,Web-CreateLead-20250419104158723,4/19/2025 10:41,NULL,gattuvanitha944@gmail.com,Vanitha,dummy,9676074371,500601,3068,lap-camp-eng
+Lead020,1189,ESFB Website,Chennai,Web-CreateLead-20250419104226118,4/19/2025 10:42,NULL,jjelitenithya@gmail.com,TNithyanandhamm,dummy,9840883004,600002,3068,lap-camp-eng
+Lead021,11015,ESFB Website,Sirsa,Web-CreateLead-20250419104314036,4/19/2025 10:43,NULL,mpjoyal1@gmail.com,Mahender,Pal,8683051755,125104,3068,credit-card
+Lead022,16019,ESFB Website,Pali,Web-CreateLead-20250419104740658,4/19/2025 10:47,NULL,TALIM8987@GMAIL.COM,TALIM,ALI,7424830051,306401,3068,credit-card
+Lead023,16019,ESFB Website,Pali,Web-CreateLead-20250419104825981,4/19/2025 10:48,NULL,mofaijalpali786@gmail.com,Faijal,Khan,7073424799,306401,3068,credit-card
+Lead024,9054,ESFB Website,Solapur,Web-CreateLead-20250419104906098,4/19/2025 10:49,NULL,selvakumardevar29@gmail.com,Selvakumar,Devar,9344487079,413101,3068,credit-card
+Lead025,1350,ESFB Website,Salem,Web-CreateLead-20250419104942707,4/19/2025 10:49,NULL,nirmalkumar5929@gmail.com,Nirmal Kumar,dummy,9944624702,636204,3068,lap-camp-eng
+Lead026,,ESFB Website,Gurdaspur,Web-CreateLead-20250419105047484,4/19/2025 10:50,NULL,rishiksharma41@gmail.com,Krishna,dummy,7743074461,143521,3068,Current-Account
+Lead027,4003,ESFB Website,Visakhapatnam,Web-CreateLead-20250419105450636,4/19/2025 10:54,NULL,rkjaarshitha@gmail.com,Rama,Krishna,8978818671,530002,7751,gold-loan
+Lead028,14006,ESFB Website,Sagar,Web-CreateLead-20250419105641055,4/19/2025 10:56,NULL,0001devn@gmail.com,Dev,Namdev,6261380577,470113,1005,regular-savings-account
+Lead029,1340,ESFB Website,Theni,Web-CreateLead-20250419105741755,4/19/2025 10:57,NULL,arjunamarantheni@gmail.com,k arjun,dummy,8883592081,625531,3068,lap-camp-eng
+Lead030,4033,ESFB Website,Y.S.R.,Web-CreateLead-20250419110021828,4/19/2025 11:00,NULL,krishnachaithanyavaddi143@gmail.c,Vaddi krishnachaithanya,dummy,9666002492,516434,3068,
+Lead031,4033,ESFB Website,Y.S.R.,Web-CreateLead-20250419110131951,4/19/2025 11:01,NULL,krishnachaithanyavaddi143@gmail.c,Vaddi krishnachaithanya,dummy,9666002492,516434,3068,
+Lead032,1016,ESFB Website,Pudukkottai,Web-CreateLead-20250419110253488,4/19/2025 11:02,NULL,rajfire1981@gmail.com,Jebamalai,Sorubarani,9659120858,622001,7993,loan-finance-msme-loan
+Lead033,2002,ESFB Website,Kozhikode,Web-CreateLead-20250419110344579,4/19/2025 11:03,NULL,nizarnijju789@gmail.com,AHAMED,NIZAR,8129406713,673001,1005,regular-savings-account
+Lead034,3041,ESFB Website,Bengaluru Urban,Web-CreateLead-20250419110649594,4/19/2025 11:06,NULL,nandeeshkm61@gmail.com,NANDEESH,dummy,9980882923,560056,3068,lap-camp-eng
+Lead035,1274,ESFB Website,Sivaganga,Web-CreateLead-20250419110706893,4/19/2025 11:07,NULL,duraibaskaran008@gmail.com,Baskaran,dummy,9003303262,630702,3068,lap-camp-eng
+Lead036,20018,ESFB Website,Gurugram,Web-CreateLead-20250419111021606,4/19/2025 11:10,NULL,Vikasch4141@gmail.com,Vikas,Chauhan,9205033628,122505,3068,credit-card
+Lead037,3036,ESFB Website,Bengaluru Rural,Web-CreateLead-20250419111308573,4/19/2025 11:13,NULL,sathishkumar75867@gmail.com,Shadhakshari,dummy,9901097919,560107,3068,lap-camp-eng
+Lead038,4046,ESFB Website,Chittoor,Web-CreateLead-20250419111930800,4/19/2025 11:19,NULL,madellaramesh111@gmail.com,MADDELA ramesh,dummy,9703311710,517214,3068,lap-camp-eng
+Lead039,4045,ESFB Website,Anakapalli,Web-CreateLead-20250419112015110,4/19/2025 11:20,NULL,prasadnagireddy143@gmail.com,Nagireddy venkata satya varaprasa,dummy,9550135324,500098,3068,lap-camp-eng
+Lead040,1004,ESFB Website,Chennai,Web-CreateLead-20250419112525896,4/19/2025 11:25,NULL,fathimasiraj2826@gmail.com,SYEDALI FATHIMA S,dummy,9003713227,600097,3068,lap-camp-eng
+Lead041,20002,ESFB Website,New Delhi,Web-CreateLead-20250419114421751,4/19/2025 11:44,NULL,himanshuavi.1995@gmail.com,Himanshu,chauhan,9582338095,110091,1005,regular-savings-account
+Lead042,16073,ESFB Website,Jaipur,Web-CreateLead-20250419114444327,4/19/2025 11:44,NULL,gyany5676@gmail.com,BIDAMI,DEVI,9680818242,303601,1048,enjoi-savings-account
+Lead043,16044,ESFB Website,Churu,Web-CreateLead-20250419114458313,4/19/2025 11:44,NULL,khushpal12356@gmail.com,Khushpal,Singh,9765358293,331504,1005,regular-savings-account
+Lead044,16044,ESFB Website,Churu,Web-CreateLead-20250419114821043,4/19/2025 11:48,NULL,khushpal12356@gmail.com,Khushpal,Singh,9765358293,331504,1005,regular-savings-account
+Lead045,16044,ESFB Website,Churu,Web-CreateLead-20250419114913010,4/19/2025 11:49,NULL,khushpal12356@gmail.com,Khushpal Singh,dummy,9765358293,331504,1005,regular-savings-account
+Lead046,17008,ESFB Website,Agra,Web-CreateLead-20250419115003126,4/19/2025 11:50,NULL,omorfaruk90777@gmail.com,Omor Faruk,dummy,7636988097,783127,1005,regular-savings-account
+Lead047,15019,ESFB Website,Gurdaspur,Web-CreateLead-20250419115233603,4/19/2025 11:52,NULL,madhavsharma64968@gmail.com,Madhav,Sharma,7889025832,143521,1005,regular-savings-account
+Lead048,3004,ESFB Website,Bengaluru Urban,Web-CreateLead-20250419115507783,4/19/2025 11:55,NULL,manjunath.yash1984@gmail.com,Manjunath m,dummy,8050411923,560067,3068,lap-camp-eng
+Lead049,16024,ESFB Website,Sikar,Web-CreateLead-20250419120516351,4/19/2025 12:05,NULL,anilkumar780084534@gmail.com,Anil choudhary,Choudhary,7737118414,332301,1031,eva-savings-account
+Lead050,16024,ESFB Website,Sikar,Web-CreateLead-20250419120600004,4/19/2025 12:06,NULL,anilkumar780084534@gmail.com,Anil choudhary,dummy,7737118414,332301,1005,regular-savings-account
+Lead051,1299,ESFB Website,Tiruppur,Web-CreateLead-20250419121530472,4/19/2025 12:15,NULL,rsasikumar.udt@gmail.com,Sasi Kumar,dummy,9585055995,642126,3068,lap-camp-eng
+Lead052,4025,ESFB Website,Warangal,Web-CreateLead-20250419121918655,4/19/2025 12:19,NULL,mohommadshahin05@gmail.com,Mohammad,Shahin,9346905576,506344,1005,regular-savings-account
+Lead053,16013,ESFB Website,Jaipur,Web-CreateLead-20250419122031167,4/19/2025 12:20,NULL,prince.sulena07@gmail.com,PRINCE,KUMAR,8890999698,321608,2002,current-account
+Lead054,9119,ESFB Website,Mumbai,Web-CreateLead-20250419124030296,4/19/2025 12:40,NULL,deepakdarnali800@gmail.com,pavitra,Singh,9769330270,400064,1020,wings-savings-account
+Lead055,7022,ESFB Website,Ahmedabad,Web-CreateLead-20250419124717612,4/19/2025 12:47,NULL,amimashaikh37@gmail.com,Amima shaikh,dummy,9429435108,380022,1005,regular-savings-account
+Lead056,20004,ESFB Website,East Delhi,Web-CreateLead-20250419124847130,4/19/2025 12:48,NULL,vishalsingh9310286891@gmail.com,Vishal,Singh,9310286891,110033,7751,gold-loan
+Lead057,12001,ESFB Website,Mandi,Web-CreateLead-20250419124858934,4/19/2025 12:48,NULL,mailtodevrajbharti@yahoo.com,Dev Raj,dummy,9805115429,175008,3068,Current-Account
+Lead058,3024,ESFB Website,Bengaluru Urban,Web-CreateLead-20250419125019272,4/19/2025 12:50,NULL,prajwaljl7855@gmail.com,Jagadeesh gari,prajwal,7569104686,560064,3068,credit-card
+Lead059,1074,ESFB Website,Thiruvallur,Web-CreateLead-20250419125125315,4/19/2025 12:51,NULL,muthukumar161995@gamil.com,Muthu Kumar,dummy,6380208227,631203,3068,lap-camp-eng
+Lead060,1231,ESFB Website,Coimbatore,Web-CreateLead-20250419125615733,4/19/2025 12:56,NULL,jenifarj43051481@gmail.com,Jenifar,dummy,6369785419,100042,3068,lap-camp-eng
+Lead061,3044,ESFB Website,Vijayanagara,Web-CreateLead-20250419125636659,4/19/2025 12:56,NULL,hhanumantha212@gmail.com,Hanumanthappa h,dummy,9686380776,583124,1005,regular-savings-account
+Lead062,1252,ESFB Website,Madurai,Web-CreateLead-20250419125651405,4/19/2025 12:56,NULL,smpandi6903@gemail.com,Muruga pandi,dummy,8015792215,625107,3068,lap-camp-eng
+Lead063,5002,ESFB Website,Hyderabad,Web-CreateLead-20250419125827822,4/19/2025 12:58,NULL,altafansari010203@gmail.com,Iltaf,Ansari,7634906185,500081,1005,regular-savings-account
+Lead064,1090,ESFB Website,Kanyakumari,Web-CreateLead-20250419130614150,4/19/2025 13:06,NULL,jeevanmathew1982@gmail.com,SubashJ,dummy,9489619348,629001,3068,lap-camp-eng
+Lead065,16052,ESFB Website,Jodhpur,Web-CreateLead-20250419130918646,4/19/2025 13:09,NULL,sohilsanju@gmail.com,Sohail,khan,9521641995,342001,1005,regular-savings-account
+Lead066,1262,ESFB Website,Nagapattinam,Web-CreateLead-20250419131403543,4/19/2025 13:14,NULL,rajeshakm4@gmail.com,RAJESH,dummy,9626871738,614707,3068,lap-camp-eng
+Lead067,4002,ESFB Website,Krishna,Web-CreateLead-20250419131602970,4/19/2025 13:16,NULL,shivakrishna.vaddadi@gmail.com,SHIVA KRISHNA,VADDADI,8977618286,520010,3068,my-current-account
+Lead068,1004,ESFB Website,Chennai,Web-CreateLead-20250419133400199,4/19/2025 13:34,NULL,rekharavi1987@gmail.com,Rekha,Ezhilarasan,8754473686,600042,4001,recurring-deposits
+Lead069,7022,ESFB Website,Ahmedabad,Web-CreateLead-20250419134212861,4/19/2025 13:42,NULL,amimashaikh37@gmail.com,Amima anas shaikh,dummy,9429435108,380022,1005,regular-savings-account
+Lead070,3015,ESFB Website,Tumakuru,Web-CreateLead-20250419134638233,4/19/2025 13:46,NULL,renukadm7@gmail.com,Renukaiah DM,dummy,7760761162,572201,3068,lap-camp-eng
+Lead071,4002,ESFB Website,Krishna,Web-CreateLead-20250419135355958,4/19/2025 13:53,NULL,bvasanthivasanthi19@email.com,Banavathi vasanthi,dummy,9010061238,520007,3068,lap-camp-eng
+Lead072,20004,ESFB Website,East Delhi,Web-CreateLead-20250419135506893,4/19/2025 13:55,NULL,sunnytvar@gmail.com,Sanjay Kr,Singh,9321474674,110091,1005,regular-savings-account
+Lead073,3072,ESFB Website,Bengaluru Rural,Web-CreateLead-20250419140015379,4/19/2025 14:00,NULL,navikumi143@gmail.com,L NAVEEN KUMAR,dummy,9741636042,515301,3068,lap-camp-eng
+Lead074,4025,ESFB Website,Warangal,Web-CreateLead-20250419140100738,4/19/2025 14:01,NULL,raneshpranu@gmail.com,Madhari Ramesh,dummy,9885739053,506001,3068,lap-camp-eng
+Lead075,1056,ESFB Website,Cuddalore,Web-CreateLead-20250419140453277,4/19/2025 14:04,NULL,a.anbarasi92@gmail.com,ANBARASI ARUMUGAM,dummy,8667421160,608301,4001,Recurring-Deposits
+Lead076,14001,ESFB Website,Bhopal,Web-CreateLead-20250419141044481,4/19/2025 14:10,NULL,aadijoshi170@gmail.com,Aditya,Joshi,6261466179,462001,3068,credit-card
+Lead077,9050,ESFB Website,Chhatrapati Sambhajinagar,Web-CreateLead-20250419141117631,4/19/2025 14:11,NULL,vishalmule9545@gmail.com,Vishal,Mule,9209099424,443001,1031,eva-savings-account
+Lead078,9050,ESFB Website,Chhatrapati Sambhajinagar,Web-CreateLead-20250419141244985,4/19/2025 14:12,NULL,vishalmule9545@gmail.com,Vishal,Mule,9209099424,443001,1048,enjoi-savings-account
+Lead079,1069,ESFB Website,Virudhunagar,Web-CreateLead-20250419141422320,4/19/2025 14:14,NULL,krishnaveni301189@gmail.com,Krishnaveni p,dummy,978949312,626123,3068,ISDcode=null
+Lead080,1167,ESFB Website,Chengalpattu,Web-CreateLead-20250419141912899,4/19/2025 14:19,NULL,viddhu92@gmail.com,Umarani,Imayavaramban,9994793500,600045,INS11,health-insurance
+Lead081,14001,ESFB Website,Bhopal,Web-CreateLead-20250419143631822,4/19/2025 14:36,NULL,meghansh958@gmail.com,Meghansh,Saxena,9839150551,462011,1005,regular-savings-account
+Lead082,14001,ESFB Website,Bhopal,Web-CreateLead-20250419143637544,4/19/2025 14:36,NULL,aadijoshi170@gmail.com,Aditya,Joshi,6261466178,462001,3068,credit-card
+Lead083,16002,ESFB Website,Balotra,Web-CreateLead-20250419143926885,4/19/2025 14:39,NULL,bhanupratapkulbhushan790@gmail.com,Ramesh,Kumar,9680680503,344022,1005,regular-savings-account
+Lead084,9023,ESFB Website,Pune,Web-CreateLead-20250419145825982,4/19/2025 14:58,NULL,uk4119483@gmail.com,Umesh Kumar,dummy,9921562882,411021,1005,regular-savings-account
+Lead085,,ESFB Website,Guna,Web-CreateLead-20250419151023079,4/19/2025 15:10,NULL,rinkudas815@gmail.com,Rinku,Das,8811006648,781318,1005,regular-savings-account
+Lead086,1121,ESFB Website,Tiruchirapalli,Web-CreateLead-20250419151037537,4/19/2025 15:10,NULL,sakthivel7483@gmail.com,sakthivel,dummy,9791981920,621306,3068,lap-camp-eng
+Lead087,1121,ESFB Website,Tiruchirapalli,Web-CreateLead-20250419151044123,4/19/2025 15:10,NULL,sakthivel7483@gmail.com,sakthivel,dummy,9791981920,621306,3068,lap-camp-eng
+Lead088,1136,ESFB Website,Erode,Web-CreateLead-20250419151220059,4/19/2025 15:12,NULL,harithefond@gmail.com,HAIHARA SUDHAN,GANDHIMATHI,9788560143,638476,7181,loan-against-property
+Lead089,11012,ESFB Website,Karnal,Web-CreateLead-20250419154538009,4/19/2025 15:45,NULL,1234@gmail.com,deepak,ahuja,9416829252,132001,7993,loan-finance-msme-loan
+Lead090,14004,ESFB Website,Indore,Web-CreateLead-20250419154835807,4/19/2025 15:48,NULL,Aryajisandeep0@gmail.com,Sandeep,Arya,8602002747,452001,1005,regular-savings-account
+Lead091,,ESFB Website,,Web-CreateLead-20250419155217295,4/19/2025 15:52,NULL,raja23kohila@gmail.com,Raja,dummy,9786590759,612702,1005,regular-savings-account
+Lead092,,ESFB Website,,Web-CreateLead-20250419155221419,4/19/2025 15:52,NULL,raja23kohila@gmail.com,Raja,dummy,9786590759,612702,1005,regular-savings-account
+Lead093,1237,ESFB Website,Cuddalore,Web-CreateLead-20250419155224331,4/19/2025 15:52,NULL,murugan21286@gmail.com,Murugan,dummy,9597339663,607803,3068,lap-camp-eng
+Lead094,4020,ESFB Website,Hyderabad,Web-CreateLead-20250419160009139,4/19/2025 16:00,NULL,mujimk915@gmail.com,Mohammed mujim,Khan,8619927904,121103,1005,regular-savings-account
+Lead095,3036,ESFB Website,Bengaluru Rural,Web-CreateLead-20250419160818027,4/19/2025 16:08,NULL,mayannaraju1981@gmail.com,MAYANANA,dummy,9686208917,560091,3068,lap-camp-eng
+Lead096,7006,ESFB Website,Vadodara,Web-CreateLead-20250419161845782,4/19/2025 16:18,NULL,chaudhari9343@gmail.com,Yogendrakumar,chaudhari,9429549343,390004,3068,credit-card
+Lead097,9120,ESFB Website,Mumbai,Web-CreateLead-20250419162118446,4/19/2025 16:21,NULL,a1chicken2019@gmail.com,Imran sikander,Shaikh,7768905216,400053,7993,loan-finance-msme-loan
+Lead098,20004,ESFB Website,East Delhi,Web-CreateLead-20250419162355144,4/19/2025 16:23,NULL,lovepuu9118@gmail.com,Madhu,Yadav,8851237318,110009,1005,regular-savings-account
+Lead099,4002,ESFB Website,Krishna,Web-CreateLead-20250419163921393,4/19/2025 16:39,NULL,kodamanchilisuresh07@gmail.com,Suresh,dummy,9177813763,521246,3068,lap-camp-eng
+Lead100,4002,ESFB Website,Krishna,Web-CreateLead-20250419163927564,4/19/2025 16:39,NULL,kodamanchilisuresh07@gmail.com,Suresh,dummy,9177813763,521246,3068,lap-camp-eng
+Lead101,,ESFB Website,Ramanagara,Web-CreateLead-20250419164141894,4/19/2025 16:41,NULL,ms9964209365@gmail.com,Manohars,dummy,9964209365,562159,3068,lap-camp-eng
+Lead102,9146,ESFB Website,Ahmadnagar,Web-CreateLead-20250419164225831,4/19/2025 16:42,NULL,siddharthtupke33@gmail.com,Ratnamala Ashok Taur,dummy,9168447902,410501,1005,regular-savings-account
+Lead103,3052,ESFB Website,Chitradurga,Web-CreateLead-20250419164905138,4/19/2025 16:49,NULL,charikmputta@gmail.com,Kmputtachari,dummy,9902632189,577529,3068,lap-camp-eng
+Lead104,1002,ESFB Website,Chennai,Web-CreateLead-20250419170110626,4/19/2025 17:01,NULL,prabagprabag915@gmail.com,Praba G Praba G,dummy,7397281565,600037,3068,lap-camp-eng
+Lead105,3001,ESFB Website,Bengaluru Urban,Web-CreateLead-20250419171921859,4/19/2025 17:19,NULL,harishbabur04@gmail.com,Harish Babu R,dummy,9845017958,560076,1005,regular-savings-account
+Lead106,1343,ESFB Website,Tiruppur,Web-CreateLead-20250419172444288,4/19/2025 17:24,NULL,ganesanrevathi123@gmail.com,Ganesan Ganesh,dummy,9159884756,641666,3068,lap-camp-eng
+Lead107,3018,ESFB Website,Mandya,Web-CreateLead-20250419172551099,4/19/2025 17:25,NULL,supriyashivakumar024@gmail.com,Supriya ks,dummy,8861463349,571401,3068,lap-camp-eng
+Lead108,3013,ESFB Website,Mysuru,Web-CreateLead-20250419172558129,4/19/2025 17:25,NULL,prathapagooli7@gmail.com,prathap,dummy,9886011147,571189,3068,lap-camp-eng
+Lead109,1343,ESFB Website,Tiruppur,Web-CreateLead-20250419172859492,4/19/2025 17:28,NULL,alameenjalaldeenjalal@gmail.com,Jalaldeen,dummy,8838036034,641606,3068,lap-camp-eng
+Lead110,16052,ESFB Website,Jodhpur,Web-CreateLead-20250419173046414,4/19/2025 17:30,NULL,Mkkumawat0504@gmail.com,Mukesh Kumar,Kumawat,9166975583,342307,1005,regular-savings-account
+Lead111,1169,ESFB Website,Thiruvarur,Web-CreateLead-20250419173100252,4/19/2025 17:31,NULL,vbvinith0@gmail.com,VINITH,dummy,9597580308,614404,3068,lap-camp-eng
+Lead112,7013,ESFB Website,Surat,Web-CreateLead-20250419173522665,4/19/2025 17:35,NULL,hasmuktdalwadi@gmail.com,HASMUKHBHAI,MAKWANA,9624357500,395006,7993,loan-finance-msme-loan
+Lead113,7043,ESFB Website,Surat,Web-CreateLead-20250419173727671,4/19/2025 17:37,NULL,hasmuktdalwadi@gmail.com,HASMUKHBHAI MAKWANA,dummy,9624357500,395006,3068,Current-Account
+Lead114,5009,ESFB Website,Hyderabad,Web-CreateLead-20250419173840852,4/19/2025 17:38,NULL,limrahonda150@gmail.com,Mohammed,Aijaz,7075600875,500008,1005,regular-savings-account
+Lead115,1202,ESFB Website,Chennai,Web-CreateLead-20250419173931123,4/19/2025 17:39,NULL,kumarsuganyakumar90@gmail.com,Kumar k,dummy,9087555539,600116,3068,lap-camp-eng
+Lead116,9045,ESFB Website,Yavatmal,Web-CreateLead-20250419174008462,4/19/2025 17:40,NULL,surajlondhe15880@gmail.com,Suraj,Londhe,8080819494,445001,1005,regular-savings-account
+Lead117,3061,ESFB Website,Mysuru,Web-CreateLead-20250419174121379,4/19/2025 17:41,NULL,poornimaj507@gmail.com,Poornima J,dummy,9901935760,561031,3068,lap-camp-eng
+Lead118,7043,ESFB Website,Surat,Web-CreateLead-20250419174137103,4/19/2025 17:41,NULL,hasmuktdalwadi@gmail.com,HASMUKHBHAI,MAKWANA,9624357500,395006,7993,loan-finance-msme-loan
+Lead119,9134,ESFB Website,Yavatmal,Web-CreateLead-20250419174421347,4/19/2025 17:44,NULL,surajlondhe15880@gmail.com,Suraj,Londhe,8080819494,445001,1005,regular-savings-account
+Lead120,9136,ESFB Website,Chhatrapati Sambhajinagar,Web-CreateLead-20250419174837451,4/19/2025 17:48,NULL,pushpakpatil1503@gmail.com,Pushpak,dummy,8945563707,431001,1005,regular-savings-account
+Lead121,1310,ESFB Website,Chennai,Web-CreateLead-20250419180302096,4/19/2025 18:03,NULL,jp1622231@gmail.com,Jayapriya,dummy,6382838456,600005,3068,lap-camp-eng
+Lead122,1019,ESFB Website,Thanjavur,Web-CreateLead-20250419180535470,4/19/2025 18:05,NULL,narkeesnazeernarkees@gmail.com,Narkees banu,dummy,9677712236,613007,3068,lap-camp-eng
+Lead123,1065,ESFB Website,Ranipet,Web-CreateLead-20250419180707076,4/19/2025 18:07,NULL,susilapsusilap3@gmail.com,Susila p Susila p,dummy,9500537315,632403,3068,lap-camp-eng
+Lead124,1136,ESFB Website,Erode,Web-CreateLead-20250419181133240,4/19/2025 18:11,NULL,abikanaga89@gmail.com,M SATHISH,KUMAR,8682862360,638052,3068,credit-card
+Lead125,4046,ESFB Website,Chittoor,Web-CreateLead-20250419181252791,4/19/2025 18:12,NULL,munirathnam053@gmail.com,V MUNIRATHNAM,dummy,7090676742,517426,3068,lap-camp-eng
+Lead126,3001,ESFB Website,Bengaluru Urban,Web-CreateLead-20250419181405966,4/19/2025 18:14,NULL,irfankhan.ip@gmail.com,Irfan,KHAN,8147365278,560029,3068,my-current-account
+Lead127,1312,ESFB Website,Krishnagiri,Web-CreateLead-20250419181701517,4/19/2025 18:17,NULL,boobalankandhasamy84@gmail.com,BOOBALAN,dummy,9080590655,635204,3068,lap-camp-eng
+Lead128,1040,ESFB Website,Thanjavur,Web-CreateLead-20250419182554239,4/19/2025 18:25,NULL,spnikethan2021@gmail.com,Arivazhakan,dummy,8526797990,612102,3068,lap-camp-eng
+Lead129,20006,ESFB Website,West Delhi,Web-CreateLead-20250419183134936,4/19/2025 18:31,NULL,rs1715048@gmail.com,ravi shankar jha,dummy,9354099218,110027,1005,regular-savings-account
+Lead130,,ESFB Website,Palwal,Web-CreateLead-20250419183511165,4/19/2025 18:35,NULL,j9825299231@gmail.com,Jitendra Kumar,Palwal,7497928694,284405,4001,recurring-deposits
+Lead131,16024,ESFB Website,Sikar,Web-CreateLead-20250419183605465,4/19/2025 18:36,NULL,monurajput6161il.com@gmail.com,Virendra,Singh,7742631483,332713,3036,fixed-deposit
+Lead132,11020,ESFB Website,Fatehabad,Web-CreateLead-20250419183921499,4/19/2025 18:39,NULL,sureshmangal54750@gmail.com,Suresh,Mangal,8295621920,125051,3036,fixed-deposit
+Lead133,7016,ESFB Website,Rajkot,Web-CreateLead-20250419184054763,4/19/2025 18:40,NULL,rs9156204@gmail.com,Solanki Rohit,Rohit,8141899000,360004,3036,fixed-deposit
+Lead134,1179,ESFB Website,Madurai,Web-CreateLead-20250419184108729,4/19/2025 18:41,NULL,pmathavan1@gmail.com,P Madhavan,dummy,7510532486,625002,3068,lap-camp-eng
+Lead135,16040,ESFB Website,Bhilwara,Web-CreateLead-20250419184410561,4/19/2025 18:44,NULL,yogendrayadav199111@gmail.com,Narayan,Bairwa,8306973886,311001,4001,recurring-deposits
+Lead136,9135,ESFB Website,Akola,Web-CreateLead-20250419184611416,4/19/2025 18:46,NULL,pamminirmala3@gmail.com,Nirmala,Pmma,9113819763,572123,3036,fixed-deposit
+Lead137,16068,ESFB Website,Nagaur,Web-CreateLead-20250419184620760,4/19/2025 18:46,NULL,kalusharmakalusharma567@gmail.com,Kalu,Kalu,8824711195,341001,3036,fixed-deposit
+Lead138,3106,ESFB Website,Mandya,Web-CreateLead-20250419184849154,4/19/2025 18:48,NULL,haravikumar2@gmail.com,Ravikumar,dummy,9632512871,571430,3068,lap-camp-eng
+Lead139,3087,ESFB Website,Kolar,Web-CreateLead-20250419185040589,4/19/2025 18:50,NULL,naveenswathi65@gmail.com,Naveen,Naveen,9900905805,561338,3036,fixed-deposit
+Lead140,,ESFB Website,,Web-CreateLead-20250419185051661,4/19/2025 18:50,NULL,singhjitender6554@gmail.com,Jitandra,Singh,8826540628,110059,4001,recurring-deposits
+Lead141,9025,ESFB Website,Sangli,Web-CreateLead-20250419185322449,4/19/2025 18:53,NULL,vijay@2002,Vijay,Singh,8872978244,410140,3036,ISDcode=null
+Lead142,,ESFB Website,,Web-CreateLead-20250419185900106,4/19/2025 18:59,NULL,sknayakjayant@gmail.com,Jayanta nayak,Jayanta nayak,9337279400,752108,3036,fixed-deposit
+Lead143,1003,ESFB Website,Chennai,Web-CreateLead-20250419185942051,4/19/2025 18:59,NULL,Stephenraj983@gmail.com,Stephen,Raj,8056009890,600083,9003,personal-loan
+Lead144,1003,ESFB Website,Chennai,Web-CreateLead-20250419190106133,4/19/2025 19:01,NULL,Stephenraj983@gmail.com,Stephen,Raj,8056009890,600083,7751,gold-loan
+Lead145,,ESFB Website,,Web-CreateLead-20250419190531212,4/19/2025 19:05,NULL,divsjan@9860mishra,Ashish,Mishra,7359920608,486669,3036,ISDcode=null
+Lead146,20019,ESFB Website,New Delhi,Web-CreateLead-20250419191503861,4/19/2025 19:15,NULL,singermanaskumar07@gmail.com,Manas Kumar,Pradhan,7205980910,752050,3036,fixed-deposit
+Lead147,1227,ESFB Website,Coimbatore,Web-CreateLead-20250419191925864,4/19/2025 19:19,NULL,sahirabanusahirabanusahirabanu@gmail.com,Sahira,Banu,9789268015,641001,3036,fixed-deposit
+Lead148,,ESFB Website,Agra,Web-CreateLead-20250419192208707,4/19/2025 19:22,NULL,shaikhmaqbool68519@gmail.com,Maqbool Rahman maula Ali Shaikh,Shaikh,8828688201,400621,3036,fixed-deposit
+Lead149,16001,ESFB Website,Jaipur,Web-CreateLead-20250419192339608,4/19/2025 19:23,NULL,premsinghps0012@gmail.com,Prem Kumar,Saini,9950250834,302039,3036,fixed-deposit
+Lead150,9153,ESFB Website,Mumbai,Web-CreateLead-20250419192707233,4/19/2025 19:27,NULL,chaurasiyasatyam2005@gmail.com,Satyam,Chaurasiya,8780345027,400058,9101,elite-savings-account
+Lead151,4032,ESFB Website,Nandyal,Web-CreateLead-20250419192924278,4/19/2025 19:29,NULL,sathwikamadhu6@gmil.com,Gotammeenakshi,dummy,9000666286,515801,3068,lap-camp-eng
+Lead152,20003,ESFB Website,Central Delhi,Web-CreateLead-20250419193020952,4/19/2025 19:30,NULL,zilanilaskar324@gmail.com,Zilani,Laskar,7636808750,788152,3036,fixed-deposit
+Lead153,,ESFB Website,Jaipur,Web-CreateLead-20250419193607516,4/19/2025 19:36,NULL,Suhailkhan0786ssss@gmail.com,Suhail,Khan,9216786223,203205,3036,fixed-deposit
+Lead154,16013,ESFB Website,Jaipur,Web-CreateLead-20250419193749492,4/19/2025 19:37,NULL,Suhailkhan0786ssss@gmail.com,Suhail,Khan,9216786223,921678,3036,fixed-deposit
+Lead155,20004,ESFB Website,East Delhi,Web-CreateLead-20250419193758310,4/19/2025 19:37,NULL,ankursharma09021990@gmail.com,Ankur,Sharma,9555421214,110053,3036,fixed-deposit
+Lead156,16014,ESFB Website,Jodhpur,Web-CreateLead-20250419193812880,4/19/2025 19:38,NULL,nainsingh0055@gmail.com,NAIN,SINGH,9257159023,342306,1005,regular-savings-account
+Lead157,17005,ESFB Website,Lucknow,Web-CreateLead-20250419193905462,4/19/2025 19:39,NULL,sonurai4412@gmail.com,sarvjeet,Singh,7248453744,262405,2004,advance-current
+Lead158,20004,ESFB Website,East Delhi,Web-CreateLead-20250419193946000,4/19/2025 19:39,NULL,javedmohd724@gmail.com,Mohmmad,Javed,8595410374,110006,3036,fixed-deposit
+Lead159,3047,ESFB Website,Bengaluru Urban,Web-CreateLead-20250419194254673,4/19/2025 19:42,NULL,whoankittiwari@gmail.com,Ankit,dummy,8115771188,560035,3068,Credit-card
+Lead160,20004,ESFB Website,East Delhi,Web-CreateLead-20250419194527079,4/19/2025 19:45,NULL,javedmohd724@gmail.com,Mohmmad,Javed,8595410374,110006,1020,wings-savings-account
+Lead161,20004,ESFB Website,East Delhi,Web-CreateLead-20250419194853492,4/19/2025 19:48,NULL,javedmohd724@gmail.com,Mohmmad,Javed,8595410374,110006,1005,regular-savings-account
+Lead162,20004,ESFB Website,East Delhi,Web-CreateLead-20250419195127542,4/19/2025 19:51,NULL,javedmohd724@gmail.com,Mohmmad,Javed,8595410374,110006,1005,regular-savings-account
+Lead163,20003,ESFB Website,Central Delhi,Web-CreateLead-20250419195224704,4/19/2025 19:52,NULL,javedmohd724@gmail.com,Mohmmad javed,dummy,8595410374,110006,3068,Excell-Savings-Account
+Lead164,,ESFB Website,,Web-CreateLead-20250419195519218,4/19/2025 19:55,NULL,muralipyaram84@gmail.com,Murali,dummy,9491910626,515775,3068,lap-camp-eng
+Lead165,9158,ESFB Website,Nagpur,Web-CreateLead-20250419195642357,4/19/2025 19:56,NULL,sanketukey51@gmail.com,Sanket,Ukey,7028814095,440017,3036,fixed-deposit
+Lead166,16025,ESFB Website,Bundi,Web-CreateLead-20250419195913638,4/19/2025 19:59,NULL,mahadevbairwa7727@gmail.com,Mahadev,Bairwa,7727815715,323803,3036,fixed-deposit
+Lead167,1302,ESFB Website,Villupuram,Web-CreateLead-20250419200633208,4/19/2025 20:06,NULL,bhuvanashbhuvanash965@gmail.com,Veerapragash p,Pragash,6382892659,604001,3068,credit-card
+Lead168,1302,ESFB Website,Villupuram,Web-CreateLead-20250419200903499,4/19/2025 20:09,NULL,bhuvanashbhuvanash965@gmail.com,Veerapragash,dummy,6382892659,604001,3068,Credit-card
+Lead169,1302,ESFB Website,Villupuram,Web-CreateLead-20250419201705541,4/19/2025 20:17,NULL,bhuvanashbhuvanash965@gmail.com,Veerapragash,Pragash,6382892659,604001,7993,loan-finance-msme-loan
+Lead170,16005,ESFB Website,Kota,Web-CreateLead-20250419201927611,4/19/2025 20:19,NULL,raajsharma512011@gmail.com,Chetan,Kumar,9699583384,320041,3036,fixed-deposit
+Lead171,7060,ESFB Website,Ahmedabad,Web-CreateLead-20250419202951285,4/19/2025 20:29,NULL,sujjitbiswas154@gmail.com,Sujit,Biswas,9715530517,380058,2033,nro-current-account
+Lead172,20004,ESFB Website,East Delhi,Web-CreateLead-20250419203104580,4/19/2025 20:31,NULL,rp6868762@gmail.com,Ramesh,Panday,7252015044,201301,3036,fixed-deposit
+Lead173,9028,ESFB Website,Pune,Web-CreateLead-20250419204404504,4/19/2025 20:44,NULL,arvgroup.company@gamil.com,ARCHANA,Jirage,9075162157,410507,3068,my-current-account
+Lead174,9143,ESFB Website,Mumbai,Web-CreateLead-20250419213444194,4/19/2025 21:34,NULL,mdshadabaalam50@gmail.com,MDSHADAB,dummy,7479910845,400088,1005,regular-savings-account
+Lead175,4020,ESFB Website,Hyderabad,Web-CreateLead-20250419213552403,4/19/2025 21:35,NULL,keerthikini2007@gmail.com,Kola Pavan Kalyan,dummy,9618291502,500056,3068,lap-camp-eng
+Lead176,9121,ESFB Website,Mumbai,Web-CreateLead-20250419214034110,4/19/2025 21:40,NULL,mdshadabaalam50@gmail.com,Shadab,Alam,7479910845,400088,1005,regular-savings-account
+Lead177,9121,ESFB Website,Mumbai,Web-CreateLead-20250419214144528,4/19/2025 21:41,NULL,mdshadabaalam50@gmail.com,MDSHADAB,dummy,7479910845,400088,1005,regular-savings-account
+Lead178,15025,ESFB Website,Bathinda,Web-CreateLead-20250419215028090,4/19/2025 21:50,NULL,kp0866840@gmail.com,Karan Singh,Preet,9779631842,151201,3036,fixed-deposit
+Lead179,14063,ESFB Website,Indore,Web-CreateLead-20250419215156816,4/19/2025 21:51,NULL,jagdishpandya989@gmail.com,Jagdish,Pandya,9893045517,452001,3036,fixed-deposit
+Lead180,3113,ESFB Website,Bengaluru Urban,Web-CreateLead-20250419220810242,4/19/2025 22:08,NULL,soofijuni29@gmail.com,Soofi,dummy,8792431816,571224,3068,lap-camp-eng
+Lead181,3113,ESFB Website,Nagpur,Web-CreateLead-20250419221231690,4/19/2025 22:12,NULL,soofijuni29@gmail.com,Soofi,K A,8792431816,571214,7901,new-car-loan
+Lead182,20017,ESFB Website,Faridabad,Web-CreateLead-20250419225327670,4/19/2025 22:53,NULL,dilshad9050093188@gmail.com,Dilshad,Khan,9050093188,121103,3036,fixed-deposit
+Lead183,17006,ESFB Website,Meerut,Web-CreateLead-20250419230635301,4/19/2025 23:06,NULL,Rekharani3281@gmail.com,Rekha,Rani,8266915167,251201,4001,recurring-deposits
+Lead184,15030,ESFB Website,Hoshiarpur,Web-CreateLead-20250419231912380,4/19/2025 23:19,NULL,rajdeepsolanki646@gmail.com,Rajdeep,Solanki,8360194923,144401,3036,fixed-deposit
+Lead185,9096,ESFB Website,Pune,Web-CreateLead-20250419234037677,4/19/2025 23:40,NULL,ujwalmodak@outlook.com,Ujwal,Modak,9766071555,411047,1005,regular-savings-account
+Lead186,3040,ESFB Website,Bengaluru Urban,Web-CreateLead-20250419234427196,4/19/2025 23:44,NULL,abrahimr878@gmail.com,Ibrahim,Ibrahim sk,7305861551,577526,3036,fixed-deposit
+Lead187,20004,ESFB Website,East Delhi,Web-CreateLead-20250419234805043,4/19/2025 23:48,NULL,yoyo817810@gmail.com,Yogesh,Kumar,8178103220,110042,3036,fixed-deposit
+Lead188,20004,ESFB Website,East Delhi,Web-CreateLead-20250419234901153,4/19/2025 23:49,NULL,yoyo817810@gmail.com,Yogesh,Kumar,8178103220,110042,3036,fixed-deposit
+Lead189,7044,ESFB Website,Surat,Web-CreateLead-20250419235927439,4/19/2025 23:59,NULL,kumarnagendra913522@gmail.com,Nagendra,Kumar,9430877428,394221,3036,fixed-deposit
+Lead190,1182,ESFB Website,Chennai,Web-CreateLead-20250420004143086,4/20/2025 0:41,NULL,riyamahi411109@gmail.com,Sabitha,dummy,9894028781,602026,3068,lap-camp-eng
+Lead191,16028,ESFB Website,ALWAR,Web-CreateLead-20250420005711906,4/20/2025 0:57,NULL,irfankhanbaroda@gmail.com,IRFAN,KHAN,7851097286,301021,1005,regular-savings-account
+Lead192,16036,ESFB Website,ALWAR,Web-CreateLead-20250420005854725,4/20/2025 0:58,NULL,irfankhanbaroda@gmail.com,IRFAN KHAN,dummy,7851097286,301021,1005,regular-savings-account
+Lead193,3045,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420010109334,4/20/2025 1:01,NULL,yeriswamyt880@gmail.com,Yeriswamy,Thimma Reddy,9611839666,560048,3036,fixed-deposit
+Lead194,1304,ESFB Website,Virudhunagar,Web-CreateLead-20250420010116881,4/20/2025 1:01,NULL,sksrajalic@gmail.com,S K SUBRAMANIARAJA,dummy,9443103909,626117,3068,Elite-Premium-Savings-Account
+Lead195,16063,ESFB Website,Bharatpur,Web-CreateLead-20250420011237722,4/20/2025 1:12,NULL,sahidsahidngr@gmail.com,Shahid,dummy,6378615252,321024,1005,regular-savings-account
+Lead196,14016,ESFB Website,Sagar,Web-CreateLead-20250420011641353,4/20/2025 1:16,NULL,prajaptip029@gmail.com,Pradeep prajapati,dummy,6260466052,470115,1005,regular-savings-account
+Lead197,,ESFB Website,,Web-CreateLead-20250420012006237,4/20/2025 1:20,NULL,devendravishwakarma6488@gmail.com,Devendra,Kumar,9170025938,210421,3036,fixed-deposit
+Lead198,16063,ESFB Website,Bharatpur,Web-CreateLead-20250420012049721,4/20/2025 1:20,NULL,sahidsahidngr@gmail.com,Shahid,Shahid,6378615252,321024,1005,regular-savings-account
+Lead199,3100,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420012100730,4/20/2025 1:21,NULL,ravindransri@gmail.com,Ravindran,Srinivasan,9381068440,560062,3036,fixed-deposit
+Lead200,3072,ESFB Website,Bengaluru Rural,Web-CreateLead-20250420012222364,4/20/2025 1:22,NULL,76388426h@gmail.com,Rupam,Namasudra,6026647245,560099,3036,fixed-deposit
+Lead201,1332,ESFB Website,Kancheepuram,Web-CreateLead-20250420012912477,4/20/2025 1:29,NULL,madhankumar2308@gmail.com,Mathankumar r,dummy,9994550756,631002,3068,lap-camp-eng
+Lead202,17006,ESFB Website,Meerut,Web-CreateLead-20250420013218768,4/20/2025 1:32,NULL,Mohdafatab089@gmail.com,Mohd Aftab,dummy,9897232243,251311,4001,Recurring-Deposits
+Lead203,3091,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420014215136,4/20/2025 1:42,NULL,76388426h@gmail.com,Rupam,Namasudra,6026647245,560099,1005,regular-savings-account
+Lead204,17008,ESFB Website,Agra,Web-CreateLead-20250420014354486,4/20/2025 1:43,NULL,bbanwaribairwa953@gmail.com,Banwari,dummy,9509757078,123456,3068,Elite-Premium-Savings-Account
+Lead205,4020,ESFB Website,Hyderabad,Web-CreateLead-20250420014854283,4/20/2025 1:48,NULL,siddhudhagad1@gmail.com,Ullengula siddartha,dummy,7330908858,500055,3068,lap-camp-eng
+Lead206,3108,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420015009530,4/20/2025 1:50,NULL,yallanna19@gmail.com,Yallanna kn,dummy,9535227706,560086,3068,lap-camp-eng
+Lead207,,ESFB Website,,Web-CreateLead-20250420015515765,4/20/2025 1:55,NULL,sheiksheik1127@gmail.com,Sheik,Sheik,8667391127,625602,3036,fixed-deposit
+Lead208,3045,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420015957957,4/20/2025 1:59,NULL,mohammadsharif395@gmail.com,Mohammad sharif,dummy,7892009028,560034,3068,lap-camp-eng
+Lead209,17008,ESFB Website,Agra,Web-CreateLead-20250420020034996,4/20/2025 2:00,NULL,brajeshsingh6819@gmail.com,Brajesh,Singh,9119008059,283203,3036,fixed-deposit
+Lead210,,ESFB Website,Ambala,Web-CreateLead-20250420021533761,4/20/2025 2:15,NULL,Bohrabadal58@gimil.com,Badal,Kumar,8534002479,247452,3036,fixed-deposit
+Lead211,14016,ESFB Website,Sagar,Web-CreateLead-20250420022249655,4/20/2025 2:22,NULL,rahulahirwar78625349@gmail.com,Rahul,Ahirwar,6266603392,470001,1020,wings-savings-account
+Lead212,3072,ESFB Website,Bengaluru Rural,Web-CreateLead-20250420023004769,4/20/2025 2:30,NULL,basappa72828@gmail.com,Basappa,dummy,7022369490,560062,3068,lap-camp-eng
+Lead213,1312,ESFB Website,Krishnagiri,Web-CreateLead-20250420023019513,4/20/2025 2:30,NULL,gpushparaj.1980@gmail.com,Pushparaj,dummy,9941863343,635203,3068,lap-camp-eng
+Lead214,9159,ESFB Website,Mumbai,Web-CreateLead-20250420023654974,4/20/2025 2:36,NULL,sayyadajmalhussain@gmail.com,Sayyad ajmal,Husain,8002953501,400072,3036,fixed-deposit
+Lead215,20019,ESFB Website,West Delhi,Web-CreateLead-20250420024337033,4/20/2025 2:43,NULL,rahulsinghdmf@gmail.com,Rahul Singh,dummy,7217749264,110059,1005,regular-savings-account
+Lead216,16048,ESFB Website,Jaipur,Web-CreateLead-20250420024505516,4/20/2025 2:45,NULL,aliasgar069460@gmail.com,Asgar,Ali,9001985386,303012,3036,fixed-deposit
+Lead217,20019,ESFB Website,West Delhi,Web-CreateLead-20250420024601633,4/20/2025 2:46,NULL,rahulsinghdmf@gmail.com,Rahul,Singh,7217749264,110059,1005,regular-savings-account
+Lead218,1033,ESFB Website,Ariyalur,Web-CreateLead-20250420024620129,4/20/2025 2:46,NULL,senthil84iniya@gmail.com,Senthil,dummy,7373657778,621802,3068,lap-camp-eng
+Lead219,9061,ESFB Website,Amravati,Web-CreateLead-20250420024658445,4/20/2025 2:46,NULL,pujariprasanna927@gmail.com,Pujari,Prasanna,8374622050,444601,3036,fixed-deposit
+Lead220,8006,ESFB Website,Korba,Web-CreateLead-20250420024918757,4/20/2025 2:49,NULL,bussinesboss0@gmail.com,prashant,Prashant,8517911262,495454,7993,loan-finance-msme-loan
+Lead221,7044,ESFB Website,Surat,Web-CreateLead-20250420025057814,4/20/2025 2:50,NULL,vijaykushal871@gmail.com,Vijay Kumar,Vijay Kumar,9067764114,394210,3036,fixed-deposit
+Lead222,,ESFB Website,,Web-CreateLead-20250420025244696,4/20/2025 2:52,NULL,gurjarravinder908@gmail.com,Ravinder,Gujjar,9671101729,123023,3036,fixed-deposit
+Lead223,16010,ESFB Website,Ajmer,Web-CreateLead-20250420025305289,4/20/2025 2:53,NULL,aswanisunita98@gmail.com,Sunita,Aswani,9928023862,305001,3036,fixed-deposit
+Lead224,11010,ESFB Website,Jind,Web-CreateLead-20250420025459797,4/20/2025 2:55,NULL,94116551459sohan@gemel.com,Sohan,Sonu,9416551459,126112,3036,fixed-deposit
+Lead225,3042,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420025514313,4/20/2025 2:55,NULL,sathishkumar812341@gmail.com,Sathish kumar,dummy,6369352465,635114,3068,lap-camp-eng
+Lead226,16012,ESFB Website,Jaipur,Web-CreateLead-20250420025518793,4/20/2025 2:55,NULL,ashokmeena7501@gmail.com,Ashok Kumar,Meena,8302262218,302029,1005,regular-savings-account
+Lead227,17009,ESFB Website,Prayagraj,Web-CreateLead-20250420025708771,4/20/2025 2:57,NULL,digvijaysinghyadav239@gmail.com,Digvijay Singh,Digvijay Singh,9120457618,212109,3036,fixed-deposit
+Lead228,7060,ESFB Website,Ahmedabad,Web-CreateLead-20250420025724968,4/20/2025 2:57,NULL,rravalkishan09@gmail.com,Raval Kishan,Kishan,7859832608,383307,4001,recurring-deposits
+Lead229,9154,ESFB Website,Thane,Web-CreateLead-20250420025728810,4/20/2025 2:57,NULL,seth.gautam1983@gmail.com,Meena,Kumari,8285454562,401105,1005,regular-savings-account
+Lead230,16012,ESFB Website,Jaipur,Web-CreateLead-20250420025909299,4/20/2025 2:59,NULL,ashokmeena7501@gmail.com,Ashok Kumar Meena,dummy,8302262218,302029,1005,regular-savings-account
+Lead231,1202,ESFB Website,Chennai,Web-CreateLead-20250420025941296,4/20/2025 2:59,NULL,kumarsuganyakumar90@gmail.com,kumar k,dummy,9087555399,600116,3068,lap-camp-eng
+Lead232,3084,ESFB Website,Bidar,Web-CreateLead-20250420030304317,4/20/2025 3:03,NULL,manishkumar33869@gmail.com,Manish,Kumar,8521243669,852128,3036,fixed-deposit
+Lead233,20002,ESFB Website,Ajmer,Web-CreateLead-20250420030509719,4/20/2025 3:05,NULL,islamq80176@gmail.com,Nazrul,Islam,8638729386,783383,1005,regular-savings-account
+Lead234,9011,ESFB Website,Chandrapur,Web-CreateLead-20250420030700593,4/20/2025 3:07,NULL,jengtheeknath@gmail.com,Eknath,Jengthe,7666951667,441206,3036,fixed-deposit
+Lead235,3084,ESFB Website,Bidar,Web-CreateLead-20250420030707603,4/20/2025 3:07,NULL,manishkumar33869@gmail.com,Manish,Kumar,8521243669,852128,4001,recurring-deposits
+Lead236,,ESFB Website,,Web-CreateLead-20250420030857306,4/20/2025 3:08,NULL,rajeshds920@gmil.com,RAJESHMAHALIK,dummy,9692195839,756055,1005,regular-savings-account
+Lead237,1083,ESFB Website,Tirupathur,Web-CreateLead-20250420030925161,4/20/2025 3:09,NULL,krishnamoorthyk822@gmail.com,Krishna Moorthy Krishna Moorthy,dummy,9626256033,635802,3068,lap-camp-eng
+Lead238,17003,ESFB Website,Ghaziabad,Web-CreateLead-20250420030932153,4/20/2025 3:09,NULL,raghavmeera605@gmail.com,Meera,Raghav,8810645684,201102,3036,fixed-deposit
+Lead239,17003,ESFB Website,Ghaziabad,Web-CreateLead-20250420031254349,4/20/2025 3:12,NULL,raghavmeera605@gmail.com,Meera,dummy,8810645684,201102,1005,regular-savings-account
+Lead240,3084,ESFB Website,Bidar,Web-CreateLead-20250420031318749,4/20/2025 3:13,NULL,manishkumar33869@gmail.com,Manish,Kumar,8521243669,852128,4001,recurring-deposits
+Lead241,3084,ESFB Website,Bidar,Web-CreateLead-20250420031510873,4/20/2025 3:15,NULL,manishkumar33869@gmail.com,Manish Kumar,dummy,8521243669,852128,3068,Car-Loan
+Lead242,1205,ESFB Website,Thiruvallur,Web-CreateLead-20250420031627467,4/20/2025 3:16,NULL,mkagencies78@gmail.com,Mohamed,Kasim,9841342925,602024,3036,fixed-deposit
+Lead243,3116,ESFB Website,Gadag,Web-CreateLead-20250420031709486,4/20/2025 3:17,NULL,b0365992@gmail.com,Basavaraj M Bannimatti,dummy,7353942166,582118,3068,lap-camp-eng
+Lead244,9118,ESFB Website,Nandurbar,Web-CreateLead-20250420032110141,4/20/2025 3:21,NULL,jayshrigavhale9@gmail.com,Jayshri,Gawhale,7756038042,425412,3036,fixed-deposit
+Lead245,9041,ESFB Website,Buldhana,Web-CreateLead-20250420032135793,4/20/2025 3:21,NULL,rajputrahulsingh015@gmail.com,Rahul,Singh,9720458356,203001,3036,fixed-deposit
+Lead246,9056,ESFB Website,Ahmadnagar,Web-CreateLead-20250420032202134,4/20/2025 3:22,NULL,keshavchambhare07@gmai.com,Keshav Avdhut Chambhare,dummy,7588152150,431122,1005,regular-savings-account
+Lead247,17008,ESFB Website,Agra,Web-CreateLead-20250420032211722,4/20/2025 3:22,NULL,khujaripradhan6@gmail.com,Khujari,Pradhan,9668519295,759130,3036,fixed-deposit
+Lead248,9015,ESFB Website,Nasik,Web-CreateLead-20250420032215036,4/20/2025 3:22,NULL,teenagangode@gmaile.com,Meghana,Dambale,7620026756,422202,3036,fixed-deposit
+Lead249,17009,ESFB Website,Prayagraj,Web-CreateLead-20250420032234426,4/20/2025 3:22,NULL,Hanchr9956@gmail.com,Hanch,Raj,9956912579,212303,3036,fixed-deposit
+Lead250,3124,ESFB Website,Koppal,Web-CreateLead-20250420032238565,4/20/2025 3:22,NULL,khalidaddewale@gmail.com,Khalid,Pash kasim sab addewali,8050857677,583231,3036,fixed-deposit
+Lead251,9117,ESFB Website,Ahmadnagar,Web-CreateLead-20250420032358541,4/20/2025 3:23,NULL,keshavchambhare07@gmai.com,Keshav Avdhut,Chambhare,7588152150,413201,1005,regular-savings-account
+Lead252,8010,ESFB Website,Raipur,Web-CreateLead-20250420032608558,4/20/2025 3:26,NULL,manikdhruw507@gmail.com,Manik,Dhruw,9098186860,493885,4001,recurring-deposits
+Lead253,17008,ESFB Website,Agra,Web-CreateLead-20250420032708554,4/20/2025 3:27,NULL,ashish64474@gmail.com,Ashish,Ashish,8859449953,202170,3036,fixed-deposit
+Lead254,17005,ESFB Website,Lucknow,Web-CreateLead-20250420032756606,4/20/2025 3:27,NULL,st2324597@gmail.com,Sachin,Tiwari,6392622973,226002,3036,fixed-deposit
+Lead255,14061,ESFB Website,Chhindwara,Web-CreateLead-20250420032907306,4/20/2025 3:29,NULL,aarubhoure5@gmail.com,Preeti,Bhoure,8817928658,480555,4001,recurring-deposits
+Lead256,16070,ESFB Website,Pratapgarh,Web-CreateLead-20250420032945846,4/20/2025 3:29,NULL,bahadurrajayadav@gmail.com,Kunwar bahadur yadav,Bahadur,9559014293,227808,4001,recurring-deposits
+Lead257,1091,ESFB Website,Salem,Web-CreateLead-20250420033143186,4/20/2025 3:31,NULL,manik.4535.0@gmail.com,Mani kandan,dummy,9362211663,636006,3068,lap-camp-eng
+Lead258,16045,ESFB Website,Ganganagar,Web-CreateLead-20250420033241476,4/20/2025 3:32,NULL,dhanpatram918@gmail.com,Dhanpat,Ram,7665279266,335021,3036,fixed-deposit
+Lead259,1311,ESFB Website,Krishnagiri,Web-CreateLead-20250420033300935,4/20/2025 3:33,NULL,dhanalakshmiammu327@gmail.com,DHANALAKSHMI A,dummy,7449082627,635126,3068,lap-camp-eng
+Lead260,,ESFB Website,,Web-CreateLead-20250420033316767,4/20/2025 3:33,NULL,shawsuman3962@gmail.com,Suman,Shaw,7044910927,700005,3036,fixed-deposit
+Lead261,11029,ESFB Website,Hanumangarh,Web-CreateLead-20250420033350623,4/20/2025 3:33,NULL,Kalawti@123,Kalawti Devi,Kalawti Devi,8104712306,335523,4001,ISDcode=null
+Lead262,21001,ESFB Website,Dehra Dun,Web-CreateLead-20250420033353446,4/20/2025 3:33,NULL,shekharrana2755@gmail.com,Shekhar,Rana,7417124517,248001,3036,fixed-deposit
+Lead263,15012,ESFB Website,Jalandhar,Web-CreateLead-20250420033745819,4/20/2025 3:37,NULL,blal25217@gmail.com,Lalbabu,Paswan,6283604316,144004,3036,fixed-deposit
+Lead264,16020,ESFB Website,Tonk,Web-CreateLead-20250420033856170,4/20/2025 3:38,NULL,sikndark601@gmail.com,sikndar,Khan,8000367864,304025,3036,fixed-deposit
+Lead265,16052,ESFB Website,Jodhpur,Web-CreateLead-20250420033931532,4/20/2025 3:39,NULL,bhagwatparaste957@gmail.com,Bhagwat,Paraste,6265120924,483110,3036,fixed-deposit
+Lead266,11001,ESFB Website,Bhiwani,Web-CreateLead-20250420034035408,4/20/2025 3:40,NULL,surajsha2244@gmail.com,Suraj,Sharma,8607580940,127021,3036,fixed-deposit
+Lead267,17009,ESFB Website,Prayagraj,Web-CreateLead-20250420034054679,4/20/2025 3:40,NULL,yadavsarveshkumar636@gmail.com,Sarvesh Kumar,Yadav,9967557018,212107,3036,fixed-deposit
+Lead268,1077,ESFB Website,Cuddalore,Web-CreateLead-20250420034146704,4/20/2025 3:41,NULL,tsakthi9894@gmail.com,SakthivelT,dummy,9894977665,608601,3068,lap-camp-eng
+Lead269,17009,ESFB Website,Prayagraj,Web-CreateLead-20250420034402926,4/20/2025 3:44,NULL,yadavsarveshkumar636@gmail.com,Sarvesh Kumar,Yadav,9967557018,212107,3036,fixed-deposit
+Lead270,5003,ESFB Website,Hyderabad,Web-CreateLead-20250420034629595,4/20/2025 3:46,NULL,shatrughanyadav410@gmail.com,Shatrughan,Yadav,9912736983,500076,1020,wings-savings-account
+Lead271,16012,ESFB Website,Jaipur,Web-CreateLead-20250420034836104,4/20/2025 3:48,NULL,endraj265@gmail.com,INDRARAJ,Meena,7597408137,303505,1005,regular-savings-account
+Lead272,9159,ESFB Website,Mumbai,Web-CreateLead-20250420035039521,4/20/2025 3:50,NULL,yadavsarveshkumar636@gmail.com,Sarvesh Kumar,Yadav,9967557018,400092,4001,recurring-deposits
+Lead273,5002,ESFB Website,Hyderabad,Web-CreateLead-20250420035129755,4/20/2025 3:51,NULL,adilking7665@gmail.com,Syed Adil,dummy,7995479839,500005,3068,lap-camp-eng
+Lead274,9138,ESFB Website,Mumbai,Web-CreateLead-20250420035741293,4/20/2025 3:57,NULL,yadavsarveshkumar636@gmail.com,Sarvesh Kumar,dummy,9967557018,400092,3068,Credit-card
+Lead275,16036,ESFB Website,ALWAR,Web-CreateLead-20250420035939354,4/20/2025 3:59,NULL,niteshkumarsonkh@gmail.com,Nitesh,Kumar,6377809297,321605,1005,regular-savings-account
+Lead276,3102,ESFB Website,Yadgir,Web-CreateLead-20250420040038445,4/20/2025 4:00,NULL,Prakashguttedar162@gmail,Prakash,dummy,9945458196,585221,3068,ISDcode=null
+Lead277,7036,ESFB Website,Junagadh,Web-CreateLead-20250420040827701,4/20/2025 4:08,NULL,dalsaniyadinesh17@gmail.com,Dinesh,Dalsaniya,8160880029,362620,3036,fixed-deposit
+Lead278,1060,ESFB Website,Tiruchirapalli,Web-CreateLead-20250420041545683,4/20/2025 4:15,NULL,vinokutty189@gmail.com,V VINOTHINI,dummy,8608203860,621215,3068,lap-camp-eng
+Lead279,16063,ESFB Website,Bharatpur,Web-CreateLead-20250420041726207,4/20/2025 4:17,NULL,ksanjee6971@gmail.com,Bhanu,dummy,7073589437,321203,3068,Elite-Premium-Savings-Account
+Lead280,17008,ESFB Website,Agra,Web-CreateLead-20250420041825709,4/20/2025 4:18,NULL,adityvishwkarma28@gmail.com,Aditya vishwkarma,dummy,6269048790,465441,1005,regular-savings-account
+Lead281,17008,ESFB Website,Agra,Web-CreateLead-20250420042316289,4/20/2025 4:23,NULL,adityvishwkarma28@gmail.com,Aditya vishwkarma,dummy,6269048790,465441,1005,regular-savings-account
+Lead282,11021,ESFB Website,Rohtak,Web-CreateLead-20250420042340092,4/20/2025 4:23,NULL,veerveerv697@gmail.com,Sachin,Sachin,7419199138,124501,3036,fixed-deposit
+Lead283,7053,ESFB Website,Bharuch,Web-CreateLead-20250420042352515,4/20/2025 4:23,NULL,assalman2018@gmail.com,Salman,shaikh,9033495625,393001,1017,preferred-plus-salary-account
+Lead284,17006,ESFB Website,Meerut,Web-CreateLead-20250420042445736,4/20/2025 4:24,NULL,adityasuraniya@gmail.com,Aaditya,Kumar,7060993576,250401,3036,fixed-deposit
+Lead285,1340,ESFB Website,Theni,Web-CreateLead-20250420042500130,4/20/2025 4:25,NULL,saravanasukumar49@gmail.com,Saravanakumar,dummy,7339511356,625512,3068,lap-camp-eng
+Lead286,1197,ESFB Website,Chennai,Web-CreateLead-20250420042607509,4/20/2025 4:26,NULL,mujeebthasin2712@gmail.com,Mujibullah,dummy,8610085824,600019,3068,lap-camp-eng
+Lead287,1310,ESFB Website,Chennai,Web-CreateLead-20250420042615137,4/20/2025 4:26,NULL,vinithaanand37@gmail.com,Vinitha Anand,dummy,9003015012,600003,3068,lap-camp-eng
+Lead288,3062,ESFB Website,Shivamogga,Web-CreateLead-20250420042939017,4/20/2025 4:29,NULL,dinesh9845052883@gmail.com,Ratnamma,dummy,9845052883,577302,3068,lap-camp-eng
+Lead289,16063,ESFB Website,Bharatpur,Web-CreateLead-20250420042958904,4/20/2025 4:29,NULL,yk3103601@gmail.com,Sakir,dummy,7410934725,321205,1005,regular-savings-account
+Lead290,9137,ESFB Website,Palghar,Web-CreateLead-20250420043105903,4/20/2025 4:31,NULL,SHAHIL.MISHRA05@GMAIL.COM,Shahil,Mishra,9958870959,401203,3068,credit-card
+Lead291,9061,ESFB Website,Amravati,Web-CreateLead-20250420043507144,4/20/2025 4:35,NULL,ankurkar123vaibhav@gmail.com,Vaibhav,Ankurkar,9322439154,444803,9101,elite-savings-account
+Lead292,3001,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420043525151,4/20/2025 4:35,NULL,harishbabur04@gmail.com,Harish Babu,Ramachandra,9845017958,560076,1005,regular-savings-account
+Lead293,5002,ESFB Website,Hyderabad,Web-CreateLead-20250420043657247,4/20/2025 4:36,NULL,adilking7665@gmail.com,Syed,Adil,7995479839,500005,1051,nre-rupee-savings-account
+Lead294,4020,ESFB Website,Hyderabad,Web-CreateLead-20250420043708866,4/20/2025 4:37,NULL,vamsireddy200607@gmail.com,Vamshi,Reddy,7995832006,500001,1005,regular-savings-account
+Lead295,5003,ESFB Website,Hyderabad,Web-CreateLead-20250420044222933,4/20/2025 4:42,NULL,ravi.adepu1041@gmail.com,Ravi,dummy,9030034341,500039,3068,lap-camp-eng
+Lead296,1023,ESFB Website,Vellore,Web-CreateLead-20250420044223766,4/20/2025 4:42,NULL,bharathkris36@gmail.com,Bhrath,dummy,7845341626,632007,3068,lap-camp-eng
+Lead297,3019,ESFB Website,Davangere,Web-CreateLead-20250420044247246,4/20/2025 4:42,NULL,basavarajbasavaraj@7456.com,H V Basavaraj,dummy,9964755863,577552,3068,lap-camp-eng
+Lead298,4009,ESFB Website,Khammam,Web-CreateLead-20250420044643255,4/20/2025 4:46,NULL,yasarapunarasimharao94@gmail.com,Yasarapu narasimharao,dummy,9550440282,507101,3068,lap-camp-eng
+Lead299,,ESFB Website,,Web-CreateLead-20250420044841495,4/20/2025 4:48,NULL,khajamasthankasumur16@gmail.com,Maddala sudha,dummy,9052623107,524316,3068,lap-camp-eng
+Lead300,,ESFB Website,,Web-CreateLead-20250420044847377,4/20/2025 4:48,NULL,khajamasthankasumur16@gmail.com,Maddala sudha,dummy,9052623107,524316,3068,lap-camp-eng
+Lead301,1312,ESFB Website,Krishnagiri,Web-CreateLead-20250420045111799,4/20/2025 4:51,NULL,Kanaibala14@gmail.com,Kanai,dummy,7076030322,741163,1005,regular-savings-account
+Lead302,1268,ESFB Website,Salem,Web-CreateLead-20250420045134997,4/20/2025 4:51,NULL,manieee61@gmail.com,MANIRATHINAM,dummy,6374792523,637101,3068,lap-camp-eng
+Lead303,1061,ESFB Website,Dindigul,Web-CreateLead-20250420045135409,4/20/2025 4:51,NULL,5470@gmail.com,Thirumoorthy,dummy,6369865470,624613,3068,lap-camp-eng
+Lead304,1312,ESFB Website,Krishnagiri,Web-CreateLead-20250420045359540,4/20/2025 4:54,NULL,Kanaibala14@gmail.com,Kanai bala,dummy,7076030322,741163,1005,regular-savings-account
+Lead305,1213,ESFB Website,Chengalpattu,Web-CreateLead-20250420045707122,4/20/2025 4:57,NULL,vinoths9500@gmail.com,Vinothkumar S,dummy,9500340023,603301,3068,lap-camp-eng
+Lead306,1332,ESFB Website,Kancheepuram,Web-CreateLead-20250420045902263,4/20/2025 4:59,NULL,vsuvire@gmail.com,Vijay,dummy,7502087268,602106,3068,lap-camp-eng
+Lead307,16066,ESFB Website,Churu,Web-CreateLead-20250420045933683,4/20/2025 4:59,NULL,khushpal12356@gmail.com,Khushpal,dummy,9765358293,331504,1005,regular-savings-account
+Lead308,17002,ESFB Website,Gautam Buddha Nagar,Web-CreateLead-20250420050113014,4/20/2025 5:01,NULL,chandankumarchandankumar2987@gmail.com,Chandan ram,Chandan ram,8595798563,201301,3036,fixed-deposit
+Lead309,8012,ESFB Website,Bilaspur,Web-CreateLead-20250420050233897,4/20/2025 5:02,NULL,dashsantosh7167@gmail.com,SANTOSH KUMAR DASH,dummy,7008358746,754002,3068,lap-camp-eng
+Lead310,1023,ESFB Website,Vellore,Web-CreateLead-20250420050314533,4/20/2025 5:03,NULL,m.sureshmalar@gmail.com,Suresh,dummy,7397000985,635809,3068,lap-camp-eng
+Lead311,1153,ESFB Website,Tirupathur,Web-CreateLead-20250420050708900,4/20/2025 5:07,NULL,suresh988060@email.com,Suresh p,dummy,9620168606,635653,3068,lap-camp-eng
+Lead312,1015,ESFB Website,Dindigul,Web-CreateLead-20250420050722680,4/20/2025 5:07,NULL,vijvijirvjijirvijir@gmail.com,Vijayalakshmi,dummy,8270864269,624622,3068,lap-camp-eng
+Lead313,4003,ESFB Website,Visakhapatnam,Web-CreateLead-20250420050728716,4/20/2025 5:07,NULL,rajumarni50@gmail.com,Marni subbaraju,dummy,8525003085,530040,3068,lap-camp-eng
+Lead314,4003,ESFB Website,Visakhapatnam,Web-CreateLead-20250420050734608,4/20/2025 5:07,NULL,rajumarni50@gmail.com,Marni subbaraju,dummy,8525003085,530040,3068,lap-camp-eng
+Lead315,4003,ESFB Website,Visakhapatnam,Web-CreateLead-20250420050745082,4/20/2025 5:07,NULL,rajumarni50@gmail.com,Marni subbaraju,dummy,8525003085,530040,3068,lap-camp-eng
+Lead316,4003,ESFB Website,Visakhapatnam,Web-CreateLead-20250420050757324,4/20/2025 5:07,NULL,rajumarni50@gmail.com,Marni subbaraju,dummy,8525003085,530040,3068,lap-camp-eng
+Lead317,4003,ESFB Website,Visakhapatnam,Web-CreateLead-20250420050805948,4/20/2025 5:08,NULL,rajumarni50@gmail.com,Marni subbaraju,dummy,8525003085,530040,3068,lap-camp-eng
+Lead318,,ESFB Website,Thanjavur,Web-CreateLead-20250420050820521,4/20/2025 5:08,NULL,kohila32@gmail.com,Raja gobl,dummy,9786590759,612702,1005,regular-savings-account
+Lead319,1340,ESFB Website,Theni,Web-CreateLead-20250420051152121,4/20/2025 5:11,NULL,dhesigana74@gmail.com,DHESIGAN A,Dhesigan,9442061184,625531,9101,elite-savings-account
+Lead320,4025,ESFB Website,Warangal,Web-CreateLead-20250420051331193,4/20/2025 5:13,NULL,mallikarjunpallapu3@gmail.com,Yamuna,dummy,9381354806,506142,3068,lap-camp-eng
+Lead321,16063,ESFB Website,Bharatpur,Web-CreateLead-20250420051502442,4/20/2025 5:15,NULL,vijayjaat512@gmail.com,Vijay,Singh,8273774745,321202,7901,new-car-loan
+Lead322,1132,ESFB Website,Chennai,Web-CreateLead-20250420051720221,4/20/2025 5:17,NULL,rajasekarsekar607@gmail.com,Rajasekar G,dummy,9884515131,600012,3068,lap-camp-eng
+Lead323,14008,ESFB Website,East Nimar,Web-CreateLead-20250420052103434,4/20/2025 5:21,NULL,golumayla49@gmai.com,Golu,Mayla,8815278158,451115,1005,regular-savings-account
+Lead324,1343,ESFB Website,Tiruppur,Web-CreateLead-20250420052251770,4/20/2025 5:22,NULL,spandiveni@gmail.com,Neelaveni,dummy,8870256315,641606,3068,lap-camp-eng
+Lead325,3003,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420052337796,4/20/2025 5:23,NULL,venkateshkuni5@gmail.com,Kuni,Venkatesh,9440974194,560100,1005,regular-savings-account
+Lead326,1300,ESFB Website,Toothukudi,Web-CreateLead-20250420052539385,4/20/2025 5:25,NULL,r49754155@gmail.com,Revathi,dummy,7708385508,628720,3068,lap-camp-eng
+Lead327,1339,ESFB Website,Virudhunagar,Web-CreateLead-20250420052700373,4/20/2025 5:27,NULL,sivakasibalamani@gmail.com,S Balamani,dummy,9943875177,626123,3068,lap-camp-eng
+Lead328,1337,ESFB Website,Ramanathapuram,Web-CreateLead-20250420052743996,4/20/2025 5:27,NULL,pp3970881@gmail.com,Rajapandiyan,dummy,9786611641,623518,3068,lap-camp-eng
+Lead329,4036,ESFB Website,Krishna,Web-CreateLead-20250420053019355,4/20/2025 5:30,NULL,rishithapranay@gmail.com,ch narayana,dummy,9959812483,521185,3068,lap-camp-eng
+Lead330,1312,ESFB Website,Krishnagiri,Web-CreateLead-20250420053323319,4/20/2025 5:33,NULL,Kanaibala14@gmail.com,Kanai,Ball,7076030322,741163,1005,regular-savings-account
+Lead331,16036,ESFB Website,ALWAR,Web-CreateLead-20250420053329864,4/20/2025 5:33,NULL,mohammadikbalmohammadikbal743@gmail.com,Ikbal,Khan,9024143112,321024,1005,regular-savings-account
+Lead332,1312,ESFB Website,Krishnagiri,Web-CreateLead-20250420053422075,4/20/2025 5:34,NULL,Kanaibala14@gmail.com,Kanai,dummy,7076030322,741163,1005,regular-savings-account
+Lead333,16063,ESFB Website,Bharatpur,Web-CreateLead-20250420053509678,4/20/2025 5:35,NULL,mohammadikbalmohammadikbal743@gmail.com,Ikbal Khan,dummy,9024143112,321024,1005,regular-savings-account
+Lead334,1194,ESFB Website,Chennai,Web-CreateLead-20250420054126550,4/20/2025 5:41,NULL,thameemtbth@gmail.com,Thameem,dummy,8122012310,600011,3068,lap-camp-eng
+Lead335,1193,ESFB Website,Chennai,Web-CreateLead-20250420054157319,4/20/2025 5:41,NULL,jaya02achu@gmail.com,K Jayalakshmi,dummy,9940058960,600041,3068,lap-camp-eng
+Lead336,1311,ESFB Website,Krishnagiri,Web-CreateLead-20250420054223954,4/20/2025 5:42,NULL,chennareddy23011981@gmail.com,Chennareddy,dummy,9790851687,635110,3068,lap-camp-eng
+Lead337,1130,ESFB Website,Thiruvarur,Web-CreateLead-20250420054406037,4/20/2025 5:44,NULL,yovanyovan3140@gmil.com,Yovan,dummy,9600259430,602021,3068,lap-camp-eng
+Lead338,4020,ESFB Website,Hyderabad,Web-CreateLead-20250420054411096,4/20/2025 5:44,NULL,rajuksanthiraju@gmail.com,Katthirisetti santhiraju,dummy,9705216507,500050,3068,lap-camp-eng
+Lead339,1252,ESFB Website,Madurai,Web-CreateLead-20250420054557811,4/20/2025 5:45,NULL,nimalselvan@gmail.com,Nimalselvan,dummy,9843315315,625008,3068,lap-camp-eng
+Lead340,4020,ESFB Website,Hyderabad,Web-CreateLead-20250420054622459,4/20/2025 5:46,NULL,rajuksanthiraju@gmail.com,Katthirisetti santhiraju,dummy,9705216507,500050,3068,lap-camp-eng
+Lead341,16028,ESFB Website,ALWAR,Web-CreateLead-20250420054939005,4/20/2025 5:49,NULL,khansahib8824@gmail.com,Sahib khan,dummy,9351776624,301001,1005,regular-savings-account
+Lead342,3065,ESFB Website,Tumakuru,Web-CreateLead-20250420055127056,4/20/2025 5:51,NULL,pradeepkanakuppe@gmail.com,Pradeep Kanakuppe,dummy,9972163703,572120,3068,lap-camp-eng
+Lead343,9156,ESFB Website,Mumbai,Web-CreateLead-20250420055135566,4/20/2025 5:51,NULL,harshitbarai420@gmail.com,Harshit,Barai,7066366167,401303,1005,regular-savings-account
+Lead344,9121,ESFB Website,Mumbai,Web-CreateLead-20250420055359828,4/20/2025 5:54,NULL,anoop.kr.jaiswal@gmail.com,Anoop,Jaiswal,9029160001,400097,7991,general-insurance
+Lead345,9010,ESFB Website,Amravati,Web-CreateLead-20250420055415319,4/20/2025 5:54,NULL,middysattibabu@gmail.com,Midday Venkat Satyanarayana,dummy,9866325404,534425,3068,lap-camp-eng
+Lead346,1309,ESFB Website,Dindigul,Web-CreateLead-20250420055458117,4/20/2025 5:54,NULL,dhineshkumardk0001@gmail.com,Dhinesh,Kumar R,6383097098,624706,3068,all
+Lead347,4010,ESFB Website,Kakinada,Web-CreateLead-20250420055528713,4/20/2025 5:55,NULL,nalamkumar1626@gmail.com,Srinivas,dummy,9885536279,533004,3068,lap-camp-eng
+Lead348,16027,ESFB Website,Kekri,Web-CreateLead-20250420055649206,4/20/2025 5:56,NULL,rohitraj9508046@gmail.com,Rohit Kumar,dummy,9508046279,814133,3068,lap-camp-eng
+Lead349,14063,ESFB Website,Indore,Web-CreateLead-20250420055719523,4/20/2025 5:57,NULL,dohareshubham1@gmail.com,Shubham,Dohare,7692812462,452010,1005,regular-savings-account
+Lead350,16005,ESFB Website,Kota,Web-CreateLead-20250420055802833,4/20/2025 5:58,NULL,laxmi4999gmail.@com,Laxmi,dummy,8861597897,576221,3068,ISDcode=null
+Lead351,4045,ESFB Website,Anakapalli,Web-CreateLead-20250420055943477,4/20/2025 5:59,NULL,chandhu.doddi@gmail.com,Dchandrasekhar,dummy,8297895556,531002,3068,lap-camp-eng
+Lead352,1343,ESFB Website,Tiruppur,Web-CreateLead-20250420060024626,4/20/2025 6:00,NULL,fathima198282@gmail.com,Abdul rahman,dummy,9566471481,641606,3068,lap-camp-eng
+Lead353,1317,ESFB Website,Thiruvallur,Web-CreateLead-20250420060349126,4/20/2025 6:03,NULL,vasugideva17424@gmail.com,Chitra,dummy,6374201553,600123,3068,lap-camp-eng
+Lead354,4045,ESFB Website,Anakapalli,Web-CreateLead-20250420060508638,4/20/2025 6:05,NULL,Bhaskarmalla09@gmail.com,Malla Bhaskararao,dummy,6302442850,531001,3068,lap-camp-eng
+Lead355,4023,ESFB Website,NTR,Web-CreateLead-20250420060609705,4/20/2025 6:06,NULL,lakkanamallikarjunarao@gmail.com,Lakkana Mallikharjuna rao,dummy,9491505013,521235,3068,lap-camp-eng
+Lead356,7034,ESFB Website,Gandhinagar,Web-CreateLead-20250420060728880,4/20/2025 6:07,NULL,patel.drijesh@gmail.com,Nilam,Patel,7588761404,382007,7901,new-car-loan
+Lead357,14011,ESFB Website,Jabalpur,Web-CreateLead-20250420060756640,4/20/2025 6:07,NULL,workavnisoni@gmail.com,Avni,Soni,7067648048,482001,1005,regular-savings-account
+Lead358,1091,ESFB Website,Salem,Web-CreateLead-20250420060814876,4/20/2025 6:08,NULL,thilakrajan93@gmail.com,Thilak Rajan,dummy,962672785,636103,3068,ISDcode=null
+Lead359,,ESFB Website,,Web-CreateLead-20250420060848594,4/20/2025 6:08,NULL,mohsinmeer5030@gmail.com,MOHSIN AHMAD,MIR,9149799368,192231,1005,regular-savings-account
+Lead360,14011,ESFB Website,Jabalpur,Web-CreateLead-20250420060948986,4/20/2025 6:09,NULL,sahilsoni40816@gmail.com,Avni Soni,dummy,7067648048,482001,1005,regular-savings-account
+Lead361,8003,ESFB Website,Janjgir-Champa,Web-CreateLead-20250420061809273,4/20/2025 6:18,NULL,tirithramdinkar5@gmail.com,Tirith,Ram,6239809779,495690,7181,loan-against-property
+Lead362,17008,ESFB Website,Agra,Web-CreateLead-20250420061831499,4/20/2025 6:18,NULL,kkrajoriya8@gmail.com,Kalicharan,dummy,7248101167,202145,3068,lap-camp-eng
+Lead363,14050,ESFB Website,Rajgarh,Web-CreateLead-20250420061903110,4/20/2025 6:19,NULL,jairajkhichi982@gmail.com,Jairaj singh,Khichi,9826120637,465679,1005,regular-savings-account
+Lead364,14011,ESFB Website,Jabalpur,Web-CreateLead-20250420061957831,4/20/2025 6:19,NULL,sahilsoni40816@gmail.com,Avni,Soni,7067648048,482001,1005,regular-savings-account
+Lead365,17008,ESFB Website,Agra,Web-CreateLead-20250420062013570,4/20/2025 6:20,NULL,kkrajoriya8@gmail.com,Kalicaran,Rajoriya,7248101167,202144,7901,new-car-loan
+Lead366,14050,ESFB Website,Rajgarh,Web-CreateLead-20250420062036709,4/20/2025 6:20,NULL,jairajkhichi982@gmail.com,Jairaj singh,dummy,9826120637,465679,1005,regular-savings-account
+Lead367,3119,ESFB Website,Bagalkote,Web-CreateLead-20250420062040445,4/20/2025 6:20,NULL,Yogeshvswamy66@gmail.com,K V YOGESH,dummy,8123515999,560103,3068,lap-camp-eng
+Lead368,1046,ESFB Website,Madurai,Web-CreateLead-20250420062117833,4/20/2025 6:21,NULL,priyadharanipriyadharani1@gmail.c,Priya,dummy,7558168554,625006,3068,
+Lead369,1046,ESFB Website,Madurai,Web-CreateLead-20250420062234153,4/20/2025 6:22,NULL,priyadharanipriyadharani1@gmail.c,Priya,dummy,7558168554,625006,3068,
+Lead370,4003,ESFB Website,Visakhapatnam,Web-CreateLead-20250420062247654,4/20/2025 6:22,NULL,luvvaveeraswamy91@gmail.com,LUVVA VEERASWAMY,dummy,7981618114,530004,3068,lap-camp-eng
+Lead371,3018,ESFB Website,Mandya,Web-CreateLead-20250420062254862,4/20/2025 6:22,NULL,nagumahesh@gmail.com,nagamani,dummy,7338630117,571422,3068,lap-camp-eng
+Lead372,16048,ESFB Website,Jaipur,Web-CreateLead-20250420062300483,4/20/2025 6:23,NULL,riyajkhan7240y@gmail.com,Bassan,Khan,7240454912,321206,1031,eva-savings-account
+Lead373,7027,ESFB Website,Ahmedabad,Web-CreateLead-20250420062345710,4/20/2025 6:23,NULL,Kurshadkhan024@gmail.com,Kurshad alom khan,dummy,7671926682,500081,3068,lap-camp-eng
+Lead374,,ESFB Website,Salem,Web-CreateLead-20250420062358119,4/20/2025 6:23,NULL,arul9994822126@gamil.com,ARULKUMAR S,dummy,9994822126,636012,3068,lap-camp-eng
+Lead375,1073,ESFB Website,Madurai,Web-CreateLead-20250420062431913,4/20/2025 6:24,NULL,priyadharanipriyadharani1@gmail.c,Priya,dummy,7558168554,625006,3068,
+Lead376,4011,ESFB Website,Karimnagar,Web-CreateLead-20250420062910466,4/20/2025 6:29,NULL,srinivasvodnala80@gmail.com,Vadnala Srinivas,dummy,9989735202,505001,3068,lap-camp-eng
+Lead377,1046,ESFB Website,Madurai,Web-CreateLead-20250420062916803,4/20/2025 6:29,NULL,priyadharanipriyadharani1@gmail.c,Priya,dummy,7558168554,625006,3068,
+Lead378,14011,ESFB Website,Jabalpur,Web-CreateLead-20250420063155064,4/20/2025 6:31,NULL,sahilsoni40816@gmail.com,Avni,Soni,7067648048,482001,1005,regular-savings-account
+Lead379,4019,ESFB Website,East Godavari,Web-CreateLead-20250420063238454,4/20/2025 6:32,NULL,chinnakrishnavangalapudi@gmail.co,V bennarao,dummy,9666721439,533401,3068,lap-camp-eng
+Lead380,,ESFB Website,Jabalpur,Web-CreateLead-20250420063247324,4/20/2025 6:32,NULL,sahilsoni40816@gmail.com,Avni Soni,dummy,7067648048,482001,1005,regular-savings-account
+Lead381,,ESFB Website,Jabalpur,Web-CreateLead-20250420063316519,4/20/2025 6:33,NULL,sahilsoni40816@gmail.com,Avni Soni,dummy,7067648048,482001,1005,regular-savings-account
+Lead382,3039,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420063429169,4/20/2025 6:34,NULL,g99636505@gmail.com,T B GOVINDA RAJU,dummy,9060402057,560064,3068,lap-camp-eng
+Lead383,1005,ESFB Website,Karaikal,Web-CreateLead-20250420063548169,4/20/2025 6:35,NULL,sahulfuji@gmail.com,Sahul hameed,dummy,7094740600,609604,3068,lap-camp-eng
+Lead384,4006,ESFB Website,Kakinada,Web-CreateLead-20250420063639135,4/20/2025 6:36,NULL,pendyalasiva917@gmail.com,Siva Pendyala,dummy,6302339944,533005,3068,lap-camp-eng
+Lead385,4009,ESFB Website,Khammam,Web-CreateLead-20250420063654321,4/20/2025 6:36,NULL,sammaiahsammaiah811@gmail.com,Sammaiah Sammaiah,dummy,9000095897,507165,3068,lap-camp-eng
+Lead386,,ESFB Website,,Web-CreateLead-20250420063735688,4/20/2025 6:37,NULL,gedelekrishna@gmail.com,Gedela Krishna,dummy,9966151995,520001,3068,lap-camp-eng
+Lead387,1005,ESFB Website,Puducherry,Web-CreateLead-20250420063828255,4/20/2025 6:38,NULL,www.crazyguy2003@gmail.com,Sujith,dummy,6384511812,605502,3068,lap-camp-eng
+Lead388,3109,ESFB Website,Bengaluru Rural,Web-CreateLead-20250420064010376,4/20/2025 6:40,NULL,ckmohan504@gmail.com,Mohan C K,dummy,9945826391,560010,3068,lap-camp-eng
+Lead389,4038,ESFB Website,Kurnool,Web-CreateLead-20250420064205617,4/20/2025 6:42,NULL,krupamman21@gmail.com,KRUPAMMA,dummy,8688034072,518301,3068,lap-camp-eng
+Lead390,3090,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420064630215,4/20/2025 6:46,NULL,fayisali985@gmail.com,FAYIS,OTHAYOTH,8848023880,560068,1005,regular-savings-account
+Lead391,2004,ESFB Website,Ernakulam,Web-CreateLead-20250420064709021,4/20/2025 6:47,NULL,shiva12@gmail.com,Alex,dummy,8483042001,625003,3068,lap-camp-eng
+Lead392,5004,ESFB Website,Hyderabad,Web-CreateLead-20250420064738494,4/20/2025 6:47,NULL,anjannacharryk@gmail.com,K najanna,dummy,9866703105,502257,3068,lap-camp-eng
+Lead393,,ESFB Website,,Web-CreateLead-20250420064755679,4/20/2025 6:47,NULL,shiva12@gmail.com,Alex,M,8483042001,625003,7901,new-car-loan
+Lead394,,ESFB Website,Madurai,Web-CreateLead-20250420064950606,4/20/2025 6:49,NULL,Vaukic172@gmail.com,Cvasuki,dummy,9597420203,625005,3068,lap-camp-eng
+Lead395,1101,ESFB Website,Erode,Web-CreateLead-20250420065239607,4/20/2025 6:52,NULL,ganeshkumarganeshkumar92459@gmail,Ganesh Kumar,dummy,8526948679,638506,3068,
+Lead396,16002,ESFB Website,Balotra,Web-CreateLead-20250420065244567,4/20/2025 6:52,NULL,hanumanramasu1998@gmail.com,Hanuman,Ram,7568255998,344033,1005,regular-savings-account
+Lead397,4020,ESFB Website,Hyderabad,Web-CreateLead-20250420065407796,4/20/2025 6:54,NULL,ksrininaik@gmail.com,Ketavath Srinivas Nayak,dummy,9390112813,508101,3068,lap-camp-eng
+Lead398,1101,ESFB Website,Erode,Web-CreateLead-20250420065419859,4/20/2025 6:54,NULL,ganeshkumarganeshkumar92459@gmail,Ganesh Kumar,dummy,8526948679,638506,3068,
+Lead399,16052,ESFB Website,Jodhpur,Web-CreateLead-20250420065515024,4/20/2025 6:55,NULL,sunilgodara0107@gmail.com,Sunil,Bishnoi,9672494794,342801,1005,regular-savings-account
+Lead400,1016,ESFB Website,Pudukkottai,Web-CreateLead-20250420065520728,4/20/2025 6:55,NULL,amazingbuilders92@gmail.com,Senthilnathan,dummy,9944503217,622502,3068,lap-camp-eng
+Lead401,9119,ESFB Website,Mumbai,Web-CreateLead-20250420065556479,4/20/2025 6:55,NULL,syedrashid551@gmail.com,rashid,ali,6005902869,400059,3068,credit-card
+Lead402,1070,ESFB Website,Tenkasi,Web-CreateLead-20250420070024605,4/20/2025 7:00,NULL,karunakaran14899@gmail.com,Karuna,Karan,9080942006,627811,3068,credit-card
+Lead403,4021,ESFB Website,Chittoor,Web-CreateLead-20250420070137492,4/20/2025 7:01,NULL,kumareshkumares270@gmail.com,Subramani,Kumaresan,8374358954,517642,7031,micro-finance
+Lead404,4020,ESFB Website,Hyderabad,Web-CreateLead-20250420070201388,4/20/2025 7:02,NULL,naveenkumarmudiraj143988@gmailcom,Narsaiah,dummy,9666930413,505405,3068,
+Lead405,4020,ESFB Website,Hyderabad,Web-CreateLead-20250420070239222,4/20/2025 7:02,NULL,naveenkumarmudiraj143988@gmailcom,Narsaiah,dummy,9666930413,505405,3068,
+Lead406,1354,ESFB Website,Coimbatore,Web-CreateLead-20250420070501312,4/20/2025 7:05,NULL,praneshkr75@gmail.com,Pranesh Ramakrishnan,dummy,958503789,641025,3068,lap-camp-eng
+Lead407,4003,ESFB Website,Visakhapatnam,Web-CreateLead-20250420070755062,4/20/2025 7:07,NULL,Siddabathulaprasad@gmail.com,Siddabathula prasad,dummy,7036418213,531115,3068,lap-camp-eng
+Lead408,1279,ESFB Website,Thanjavur,Web-CreateLead-20250420071054459,4/20/2025 7:10,NULL,harimithran5053@gmail.com,Nandhini,dummy,6383962864,614625,3068,lap-camp-eng
+Lead409,3045,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420071230150,4/20/2025 7:12,NULL,srameshssramesh60@gmail.com,S Ramesh,dummy,7349478122,560043,3068,lap-camp-eng
+Lead410,20004,ESFB Website,East Delhi,Web-CreateLead-20250420071354495,4/20/2025 7:13,NULL,vishaljumar1999@gmail.com,Prabhunath,Prajapati,8218485497,110042,1005,regular-savings-account
+Lead411,14060,ESFB Website,Ashoknagar,Web-CreateLead-20250420071724550,4/20/2025 7:17,NULL,skarthik2306@gmail.com,KARTHIK,dummy,7550133928,600040,3068,lap-camp-eng
+Lead412,1102,ESFB Website,Kallakurichi,Web-CreateLead-20250420071855287,4/20/2025 7:18,NULL,shanthieelumalai68@gmail.com,ShanthiE Elumalai,dummy,9626352334,605801,3068,lap-camp-eng
+Lead413,4022,ESFB Website,Visakhapatnam,Web-CreateLead-20250420071944757,4/20/2025 7:19,NULL,lovelyprem870@gmail.com,DHANUNJAY VANGAPUNDA,dummy,8125257693,530020,3068,lap-camp-eng
+Lead414,16063,ESFB Website,ALWAR,Web-CreateLead-20250420072006192,4/20/2025 7:20,NULL,maikalgemini@gmail.com,Maichal,Gemini,9351371253,301026,1005,regular-savings-account
+Lead415,16028,ESFB Website,ALWAR,Web-CreateLead-20250420072057509,4/20/2025 7:20,NULL,maikalgemini@gmail.com,Maichal gemini,dummy,9351371253,301026,1005,regular-savings-account
+Lead416,,ESFB Website,Jaipur,Web-CreateLead-20250420072248079,4/20/2025 7:22,NULL,sjsj6180@gmail.com,Sunil,dummy,8233728265,342302,3068,NR-Account
+Lead417,1227,ESFB Website,Coimbatore,Web-CreateLead-20250420072534310,4/20/2025 7:25,NULL,capitalbub@gmail.com,Arun,dummy,9843077333,641018,3068,lap-camp-eng
+Lead418,1279,ESFB Website,Thanjavur,Web-CreateLead-20250420072733175,4/20/2025 7:27,NULL,nnadimuthu583@gmail.com,Nadi muthu nadimuthu,dummy,9092845525,613501,3068,lap-camp-eng
+Lead419,5003,ESFB Website,Hyderabad,Web-CreateLead-20250420072830558,4/20/2025 7:28,NULL,vishaladhi08@gmail.com,Adhi Vishal,dummy,8309492186,500039,3068,lap-camp-eng
+Lead420,16028,ESFB Website,ALWAR,Web-CreateLead-20250420073118561,4/20/2025 7:31,NULL,sahakulkhan251@gmail.com,sahakul,khan,9351770566,301604,1005,regular-savings-account
+Lead421,9159,ESFB Website,Mumbai,Web-CreateLead-20250420073218489,4/20/2025 7:32,NULL,ssshivpuje147@gmail.com,Shivraj,dummy,7972404918,413102,3068,lap-camp-eng
+Lead422,14044,ESFB Website,Indore,Web-CreateLead-20250420073231195,4/20/2025 7:32,NULL,kapilmeshhram@gmail.com,Kapil,Meshram,8770085211,452016,9003,personal-loan
+Lead423,16028,ESFB Website,ALWAR,Web-CreateLead-20250420073310623,4/20/2025 7:33,NULL,sahakulkhan251@gmail.com,sahakul,dummy,9351770566,301604,1005,regular-savings-account
+Lead424,16028,ESFB Website,ALWAR,Web-CreateLead-20250420073420049,4/20/2025 7:34,NULL,sahakulkhan251@gmail.com,sahakul,khan,9351770566,301604,1005,regular-savings-account
+Lead425,3048,ESFB Website,Chamarajanagar,Web-CreateLead-20250420073436536,4/20/2025 7:34,NULL,basavannauppar003@gmail.com,Basavanna,dummy,9611214819,571313,3068,lap-camp-eng
+Lead426,1340,ESFB Website,Theni,Web-CreateLead-20250420073615984,4/20/2025 7:36,NULL,dharshandharshini2023@gmail.com,Arunachalam,dummy,9524541671,625601,3068,lap-camp-eng
+Lead427,14053,ESFB Website,Satna,Web-CreateLead-20250420073927123,4/20/2025 7:39,NULL,diliplakhotia0@gmail.com,Annapurna Lakhotia,dummy,9039975341,485001,1005,regular-savings-account
+Lead428,9098,ESFB Website,Pune,Web-CreateLead-20250420074311249,4/20/2025 7:43,NULL,suvarndeep2288@gmail.com,suvarndeep,gaikwad,9322107323,411062,7811,commercial-vehicle-finance
+Lead429,,ESFB Website,Tirunelvali,Web-CreateLead-20250420074433946,4/20/2025 7:44,NULL,chalersJuliet7381@gmail.com,Chalers,dummy,9791828586,627357,3068,lap-camp-eng
+Lead430,9098,ESFB Website,Pune,Web-CreateLead-20250420074503337,4/20/2025 7:45,NULL,suvarndeep2288@gmail.com,suvarndeep,gaikwad,9322107323,411062,3068,my-current-account
+Lead431,1307,ESFB Website,Dharmapuri,Web-CreateLead-20250420074556551,4/20/2025 7:45,NULL,arivuant1986@gmail.com,Nandhini,dummy,9578483379,636808,3068,lap-camp-eng
+Lead432,5004,ESFB Website,Hyderabad,Web-CreateLead-20250420075151114,4/20/2025 7:51,NULL,agarwalkamal1807@gmail.com,Kamal,Agarwal,9849000071,500018,1005,regular-savings-account
+Lead433,1343,ESFB Website,Tiruppur,Web-CreateLead-20250420075255739,4/20/2025 7:52,NULL,nishokkumaran@gmail.com,NARAYANA SAMY,dummy,8438315639,641665,3068,lap-camp-eng
+Lead434,1332,ESFB Website,Kancheepuram,Web-CreateLead-20250420075607358,4/20/2025 7:56,NULL,mkalai2087@gmail.com,Kalaiselvan m,dummy,9944479650,631561,3068,lap-camp-eng
+Lead435,20005,ESFB Website,South Delhi,Web-CreateLead-20250420075619596,4/20/2025 7:56,NULL,shivrox888@gmail.com,Siddhart,Kumar,7048937109,110080,3068,credit-card
+Lead436,3079,ESFB Website,Mysuru,Web-CreateLead-20250420075754488,4/20/2025 7:57,NULL,rumankhan0342@gmail.com,Ruman Ahmed Khan,dummy,9945430704,570007,3068,lap-camp-eng
+Lead437,3069,ESFB Website,Vijayapura,Web-CreateLead-20250420075830956,4/20/2025 7:58,NULL,xkhajaameen@gmail.com,Khajaameen Benakanalli,dummy,9035533457,586115,3068,Current-Account
+Lead438,1239,ESFB Website,Dindigul,Web-CreateLead-20250420075913179,4/20/2025 7:59,NULL,annaitradersdgl@gmail.com,CHINNAPPAN,dummy,8508108001,624001,3068,lap-camp-eng
+Lead439,3049,ESFB Website,Chamarajanagar,Web-CreateLead-20250420080013145,4/20/2025 8:00,NULL,dharma636463@gmail.com,Dharma M,Dharma M,7676863874,571444,1005,regular-savings-account
+Lead440,1120,ESFB Website,Theni,Web-CreateLead-20250420080051148,4/20/2025 8:00,NULL,rameshjanani352@gmail.com,SARANYA,dummy,9345368276,625526,3068,lap-camp-eng
+Lead441,1061,ESFB Website,Dindigul,Web-CreateLead-20250420080544461,4/20/2025 8:05,NULL,kumarskss63@gmail.com,Kumar,dummy,7010405595,624617,3068,lap-camp-eng
+Lead442,3014,ESFB Website,Tumakuru,Web-CreateLead-20250420080614206,4/20/2025 8:06,NULL,shamashamasundar088@gmail.com,Shamasundar,dummy,7975985367,572137,3068,lap-camp-eng
+Lead443,9156,ESFB Website,Mumbai,Web-CreateLead-20250420081330934,4/20/2025 8:13,NULL,tk.mukherjee@gmail.com,MUKHERJEE TAPAN KUMAR,dummy,9820289359,400703,3068,Fixed-Deposit
+Lead444,1330,ESFB Website,Karur,Web-CreateLead-20250420081344642,4/20/2025 8:13,NULL,sakthivelsakthi45988@gmail.com,Sakthivel Sakthi,dummy,6369848499,639206,3068,lap-camp-eng
+Lead445,3037,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420081415739,4/20/2025 8:14,NULL,amitbagh.1992@gmail.com,Amit Bsgh,dummy,8453645600,560037,3068,lap-camp-eng
+Lead446,1058,ESFB Website,Tiruchirapalli,Web-CreateLead-20250420081458996,4/20/2025 8:14,NULL,sumathiselvaraj2607@gmail.com,Sumathiselvaraj,dummy,8973540615,621711,3068,lap-camp-eng
+Lead447,9045,ESFB Website,Yavatmal,Web-CreateLead-20250420081614612,4/20/2025 8:16,NULL,dheerajrathod902132@gmail.com,Dhiraj,Rathod,9021322605,445302,1005,regular-savings-account
+Lead448,1002,ESFB Website,Chennai,Web-CreateLead-20250420081615614,4/20/2025 8:16,NULL,skarthik2306@gmail.com,S karthik,dummy,7550133928,600081,3068,lap-camp-eng
+Lead449,9088,ESFB Website,Dharashiv,Web-CreateLead-20250420081652286,4/20/2025 8:16,NULL,pratikbhore5272@gmail.com,Pratik,Bhore,7972965362,413501,1005,regular-savings-account
+Lead450,9088,ESFB Website,Dharashiv,Web-CreateLead-20250420081732698,4/20/2025 8:17,NULL,pratikbhore5272@gmail.com,Pratik Bhore,dummy,7972965362,413501,3068,Current-Account
+Lead451,17008,ESFB Website,Agra,Web-CreateLead-20250420081853937,4/20/2025 8:18,NULL,rajarout2007@gmail.com,Raja rout,dummy,7991081396,754224,3068,lap-camp-eng
+Lead452,4020,ESFB Website,Hyderabad,Web-CreateLead-20250420082020252,4/20/2025 8:20,NULL,moinmd1975@gmail.com,MD,MOIN,9052959786,500061,7091,affordable-home-loan
+Lead453,3037,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420082350138,4/20/2025 8:23,NULL,viju_05@rediffmail.com,VIPUL,JAIN,8884174488,560037,7091,affordable-home-loan
+Lead454,3109,ESFB Website,Bengaluru Rural,Web-CreateLead-20250420082828913,4/20/2025 8:28,NULL,manjunathmsuji@gmail.com,Manjunath,dummy,6363782321,562114,3068,lap-camp-eng
+Lead455,1100,ESFB Website,Tiruvannamalai,Web-CreateLead-20250420082909730,4/20/2025 8:29,NULL,Dhanasekarselvam79@gmail.com,Dhana,Sekar,9787513408,604502,3068,equitas-earn-with-aditya-birla
+Lead456,5002,ESFB Website,Hyderabad,Web-CreateLead-20250420083228157,4/20/2025 8:32,NULL,kirankumar@gmailcom,GYARLAPATI Kiran Kumar,dummy,9703644764,500079,3068,ISDcode=null
+Lead457,5002,ESFB Website,Hyderabad,Web-CreateLead-20250420083303687,4/20/2025 8:33,NULL,narsimhadarla1988@gmail.com,Darla Narsingh,dummy,8919013180,500064,3068,lap-camp-eng
+Lead458,1008,ESFB Website,Tiruppur,Web-CreateLead-20250420083501114,4/20/2025 8:35,NULL,psmuthunellai@gmail.com,Sudalaiyandi,dummy,8903575852,641664,3068,lap-camp-eng
+Lead459,3043,ESFB Website,Ballari,Web-CreateLead-20250420083803687,4/20/2025 8:38,NULL,krishnayyareddy@gmeil.com,G Raghavendra,dummy,9901713408,583122,3068,lap-camp-eng
+Lead460,1213,ESFB Website,Chengalpattu,Web-CreateLead-20250420083929033,4/20/2025 8:39,NULL,chelvadurai.r@gmail.com,Chelvadurai,Raji,9500201303,603313,7181,loan-against-property
+Lead461,4025,ESFB Website,Warangal,Web-CreateLead-20250420083951871,4/20/2025 8:39,NULL,shivasamgattu77@gmail.com,Gattu shivakumar,dummy,7731022337,506164,3068,lap-camp-eng
+Lead462,16027,ESFB Website,Kekri,Web-CreateLead-20250420084251063,4/20/2025 8:42,NULL,dilkhushvermakekri@gmail.com,Lila devi,dummy,8104078018,305404,1005,regular-savings-account
+Lead463,3047,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420084352743,4/20/2025 8:43,NULL,gangaraja649@gmail.com,Gangaraja,dummy,7411010649,560103,3068,lap-camp-eng
+Lead464,,ESFB Website,,Web-CreateLead-20250420085048518,4/20/2025 8:50,NULL,ayushraj822123@gmail.com,Ayush,Kumar,7070372100,822124,1005,regular-savings-account
+Lead465,17007,ESFB Website,Kanpur Nagar,Web-CreateLead-20250420085404985,4/20/2025 8:54,NULL,adshra7786@gmail.com,Aditya,Mishra,9580657581,208001,1005,regular-savings-account
+Lead466,1087,ESFB Website,Tiruvannamalai,Web-CreateLead-20250420085834373,4/20/2025 8:58,NULL,venkatesankasi1991@gmail.com,Venkatesa K,dummy,9344926871,606604,3068,lap-camp-eng
+Lead467,3012,ESFB Website,Mysuru,Web-CreateLead-20250420090243535,4/20/2025 9:02,NULL,dv70780@gmail.com,Venkatesh D,dummy,9686618331,571114,3068,lap-camp-eng
+Lead468,16028,ESFB Website,ALWAR,Web-CreateLead-20250420090252939,4/20/2025 9:02,NULL,sksunil9739@gmail.com,Sunil Kumar,dummy,8739850316,301026,1005,regular-savings-account
+Lead469,1086,ESFB Website,Sivaganga,Web-CreateLead-20250420090713685,4/20/2025 9:07,NULL,bmani1470@gmail.com,Balasubramaniyan Velu,dummy,9551333790,630312,3068,lap-camp-eng
+Lead470,4014,ESFB Website,Mahbubnagar,Web-CreateLead-20250420090723509,4/20/2025 9:07,NULL,shekarkummari1919@gmail.com,Shekar,dummy,9652435880,509340,3068,lap-camp-eng
+Lead471,3017,ESFB Website,Ballari,Web-CreateLead-20250420090810245,4/20/2025 9:08,NULL,hpurushotham63@gmail.com,Purushotham H,dummy,9164168587,583129,3068,lap-camp-eng
+Lead472,,ESFB Website,,Web-CreateLead-20250420091417296,4/20/2025 9:14,NULL,islamsahibul91@gmail.com,Sahibul,Islam,8638751455,783388,7781,used-commercial-vehicle-finance
+Lead473,3094,ESFB Website,Ramanagara,Web-CreateLead-20250420091549227,4/20/2025 9:15,NULL,malleshhp5@gmail.com,Mallehsa,dummy,7022911108,562109,3068,lap-camp-eng
+Lead474,15027,ESFB Website,Ludhiana,Web-CreateLead-20250420092215285,4/20/2025 9:22,NULL,manchandamiki094@gmail.com,Manoj manchanda,dummy,9501476756,141008,1005,regular-savings-account
+Lead475,3086,ESFB Website,Kalaburagi,Web-CreateLead-20250420092337027,4/20/2025 9:23,NULL,ningappajawali12@gmail.com,Ningappa,Dattappa,9663767527,585102,1005,regular-savings-account
+Lead476,16002,ESFB Website,Balotra,Web-CreateLead-20250420093337310,4/20/2025 9:33,NULL,skhan788180@gmail.com,Sohil,Khan,9511329313,344022,1005,regular-savings-account
+Lead477,16002,ESFB Website,Balotra,Web-CreateLead-20250420093429746,4/20/2025 9:34,NULL,skhan788180@gmail.com,Sohil,dummy,9511329313,344022,3068,Elite-Premium-Savings-Account
+Lead478,1130,ESFB Website,Thiruvarur,Web-CreateLead-20250420094010188,4/20/2025 9:40,NULL,gayathrimathi203@gmail.com,Gayathri Mathi,dummy,9843334975,610109,3068,lap-camp-eng
+Lead479,1336,ESFB Website,Perambalur,Web-CreateLead-20250420094659183,4/20/2025 9:46,NULL,falseceilingprabhu@gmail.com,Prabakaran p,dummy,8838045662,621104,3068,lap-camp-eng
+Lead480,9048,ESFB Website,Dharashiv,Web-CreateLead-20250420094758821,4/20/2025 9:47,NULL,sagarbanan803@gmail.com,Sagar,Bamane,7249001904,413501,7181,loan-against-property
+Lead481,7043,ESFB Website,Surat,Web-CreateLead-20250420095234225,4/20/2025 9:52,NULL,hasmuktdalwadi@gmail.com,HASMUKHBHAI,MAKWANA,9624357500,395006,7993,loan-finance-msme-loan
+Lead482,1347,ESFB Website,Toothukudi,Web-CreateLead-20250420095514597,4/20/2025 9:55,NULL,madasamytamil001@gmail.com,Madasamy,dummy,9994343820,628704,3068,lap-camp-eng
+Lead483,9036,ESFB Website,Solapur,Web-CreateLead-20250420095557147,4/20/2025 9:55,NULL,ap7078655@gmail.com,Aslam,Patel,7414985695,413002,INV08,atal-pension-yojna
+Lead484,9048,ESFB Website,Dharashiv,Web-CreateLead-20250420095937029,4/20/2025 9:59,NULL,sagarbanan803@gmail.com,Sagar,Bamane,7249001904,413501,7901,new-car-loan
+Lead485,3073,ESFB Website,Hassan,Web-CreateLead-20250420101157522,4/20/2025 10:11,NULL,mohammed.zeeshan2000@gmail.com,Zeeshan,A M,8073332088,573201,3068,money-transfer
+Lead486,,ESFB Website,Coimbatore,Web-CreateLead-20250420101351679,4/20/2025 10:13,NULL,kumar.kk71298@gmail.com,Senthil kumar,dummy,6369952152,643212,3068,lap-camp-eng
+Lead487,11029,ESFB Website,Hanumangarh,Web-CreateLead-20250420101740220,4/20/2025 10:17,NULL,nk9090657@gmail.com,Nitesh,Nitesh,7689900905,335504,1005,regular-savings-account
+Lead488,14009,ESFB Website,Ujjain,Web-CreateLead-20250420101931754,4/20/2025 10:19,NULL,lakshitrajmakwana123@gmail.com,Lakshit,Makwana,9425915137,456006,3068,credit-card
+Lead489,1090,ESFB Website,Kanyakumari,Web-CreateLead-20250420102424541,4/20/2025 10:24,NULL,athifazeenath0@gmail.com,Seenthbeevi,dummy,9790528752,629302,3068,lap-camp-eng
+Lead490,1001,ESFB Website,Chennai,Web-CreateLead-20250420102707699,4/20/2025 10:27,NULL,abhaykumar906567@gmail.com,Abhay Kumar singh,dummy,9065673462,600062,1005,regular-savings-account
+Lead491,20009,ESFB Website,South Delhi,Web-CreateLead-20250420103045503,4/20/2025 10:30,NULL,Sahilkhan506688@gmail.com,Mansoor,Ali,8527389592,110062,1005,regular-savings-account
+Lead492,16052,ESFB Website,Jodhpur,Web-CreateLead-20250420103735471,4/20/2025 10:37,NULL,sunilgodara0107@gmail.com,SUNIL,BISHNOI,9672494794,342801,1005,regular-savings-account
+Lead493,4040,ESFB Website,Vizianagaram,Web-CreateLead-20250420104118539,4/20/2025 10:41,NULL,chandrasekharpappala987@gmail.com,Pappala Chandrashekar,dummy,7989561984,535558,3068,lap-camp-eng
+Lead494,4040,ESFB Website,Vizianagaram,Web-CreateLead-20250420104125474,4/20/2025 10:41,NULL,chandrasekharpappala987@gmail.com,Pappala Chandrashekar,dummy,7989561984,535558,3068,lap-camp-eng
+Lead495,4030,ESFB Website,Ananthapuramu,Web-CreateLead-20250420105025517,4/20/2025 10:50,NULL,jaya21570@gmail.com,Jaya,dummy,7780318120,515581,3068,lap-camp-eng
+Lead496,16028,ESFB Website,ALWAR,Web-CreateLead-20250420105043975,4/20/2025 10:50,NULL,aarifkhanbileta@gmail.com,Aarif,khan,8690163317,301414,1005,regular-savings-account
+Lead497,,ESFB Website,South Delhi,Web-CreateLead-20250420105234395,4/20/2025 10:52,NULL,saheemudeen928531@gmail.com,Saheemudeen,Malik,9285313428,110094,1005,regular-savings-account
+Lead498,16028,ESFB Website,ALWAR,Web-CreateLead-20250420105247840,4/20/2025 10:52,NULL,aarifkhanbileta@gmail.com,Aarif,khan,8690163317,301414,1005,regular-savings-account
+Lead499,1083,ESFB Website,Tirupathur,Web-CreateLead-20250420105317458,4/20/2025 10:53,NULL,rwahidwahid0@gmail.com,Fouziya,dummy,8220460936,635802,3068,lap-camp-eng
+Lead500,16036,ESFB Website,ALWAR,Web-CreateLead-20250420105352563,4/20/2025 10:53,NULL,aarifkhanbileta@gmail.com,Aarif,dummy,8690163317,301414,1005,regular-savings-account
+Lead501,20008,ESFB Website,North-East Delhi,Web-CreateLead-20250420105425383,4/20/2025 10:54,NULL,saheemudeen928531@gmail.com,Saheemudeen Malik,dummy,9285313428,110094,1005,regular-savings-account
+Lead502,20012,ESFB Website,South-West Delhi,Web-CreateLead-20250420105434595,4/20/2025 10:54,NULL,aryanisthebest0@gmail.com,Aryan,Bharti,9773926295,110045,1005,regular-savings-account
+Lead503,20008,ESFB Website,North-East Delhi,Web-CreateLead-20250420105526427,4/20/2025 10:55,NULL,saheemudeen928531@gmail.com,Saheemudeen Malik,dummy,9285313428,110094,1005,regular-savings-account
+Lead504,20002,ESFB Website,New Delhi,Web-CreateLead-20250420105548461,4/20/2025 10:55,NULL,ankitajana502@gmail.com,Kinkar,Jana,9310559440,110005,3068,credit-card
+Lead505,1023,ESFB Website,Vellore,Web-CreateLead-20250420105726042,4/20/2025 10:57,NULL,palanigokul@gamil.com,Gokul p,dummy,9042398609,632515,3068,lap-camp-eng
+Lead506,,ESFB Website,New Delhi,Web-CreateLead-20250420110134310,4/20/2025 11:01,NULL,ankitajana502@gmail.com,Kinkar jana,dummy,9310559440,110005,3068,Credit-card
+Lead507,4003,ESFB Website,Visakhapatnam,Web-CreateLead-20250420110211296,4/20/2025 11:02,NULL,manojpatel634@gmail.com,Manoj,Patel,7995880298,530046,9003,personal-loan
+Lead508,20004,ESFB Website,East Delhi,Web-CreateLead-20250420111719087,4/20/2025 11:17,NULL,moshin9987@gmail.com,Moshin,Moshin,9871346469,110053,1005,regular-savings-account
+Lead509,1153,ESFB Website,Tirupathur,Web-CreateLead-20250420112045108,4/20/2025 11:20,NULL,saravanacomputerss@gmail.com,Vidhya,dummy,9791659197,635601,3068,lap-camp-eng
+Lead510,3035,ESFB Website,Mysuru,Web-CreateLead-20250420112805375,4/20/2025 11:28,NULL,rakshir328@gmail.com,Rakshit,Rakshi,8867307364,571603,1005,regular-savings-account
+Lead511,20004,ESFB Website,East Delhi,Web-CreateLead-20250420113105668,4/20/2025 11:31,NULL,dolytinku206@gmail.com,Tinku,XXX,9891277358,110031,1005,regular-savings-account
+Lead512,1197,ESFB Website,Chennai,Web-CreateLead-20250420114308629,4/20/2025 11:43,NULL,sakrhikumarl2002@gmail.com,SAKTHI KUMAR L,dummy,9080166641,600019,1005,regular-savings-account
+Lead513,16024,ESFB Website,Sikar,Web-CreateLead-20250420114750986,4/20/2025 11:47,NULL,sultansingh272@gmail.com,Sultan,Singh,9983093933,332301,1005,regular-savings-account
+Lead514,1082,ESFB Website,Chennai,Web-CreateLead-20250420114959479,4/20/2025 11:49,NULL,sdivyabharathi92@gmail.com,DIVYABHARATHI,Kumaresan,7200279335,600044,7031,micro-finance
+Lead515,9054,ESFB Website,Solapur,Web-CreateLead-20250420115027149,4/20/2025 11:50,NULL,samruddhi7000@gmail.com,Samruddhi,Ingale,8080238187,413113,1005,regular-savings-account
+Lead516,1083,ESFB Website,Tirupathur,Web-CreateLead-20250420115557749,4/20/2025 11:55,NULL,earnestvinoth@gmail.com,Earnest Vinothkumar Devakumar,Devakumar,9944910886,635802,3068,credit-card
+Lead517,3091,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420120131598,4/20/2025 12:01,NULL,maulikravani.mr@gmail.com,Maulik,Ravani,9284060590,560037,3036,fixed-deposit
+Lead518,20012,ESFB Website,South-West Delhi,Web-CreateLead-20250420120139442,4/20/2025 12:01,NULL,rahulsinghdmf@gmail.com,Rahul,Singh,7217749264,110059,1005,regular-savings-account
+Lead519,1060,ESFB Website,Tiruchirapalli,Web-CreateLead-20250420120237078,4/20/2025 12:02,NULL,devarajanuae@gmail.com,Thiyagarajan,dummy,9600997942,621207,3068,lap-camp-eng
+Lead520,16063,ESFB Website,Bharatpur,Web-CreateLead-20250420120714539,4/20/2025 12:07,NULL,sahim3359@gmail.com,Barkati,Khan,7357151689,321024,1005,regular-savings-account
+Lead521,20002,ESFB Website,Agra,Web-CreateLead-20250420120938893,4/20/2025 12:09,NULL,raghavseema786@gmail.com,Seema,Kumari,9368981414,281502,1005,regular-savings-account
+Lead522,1346,ESFB Website,Ramanathapuram,Web-CreateLead-20250420121115443,4/20/2025 12:11,NULL,sinosejeeva@gmail.com,Sinose,dummy,8012671507,623707,3068,lap-camp-eng
+Lead523,7004,ESFB Website,Surat,Web-CreateLead-20250420121532218,4/20/2025 12:15,NULL,alamimtiyaaz75@gmail.com,Imtiyaz,Alam,8402168554,395004,1005,regular-savings-account
+Lead524,15027,ESFB Website,Ludhiana,Web-CreateLead-20250420122012740,4/20/2025 12:20,NULL,manchandamiki094@gmail.com,Manoj,Manchanda,9501476756,141008,1005,regular-savings-account
+Lead525,9095,ESFB Website,Pune,Web-CreateLead-20250420122401879,4/20/2025 12:24,NULL,ashwiniravindra1988@gmail.com,Ashwini,Kawade,9356165933,411037,1005,regular-savings-account
+Lead526,3072,ESFB Website,Bengaluru Rural,Web-CreateLead-20250420122934742,4/20/2025 12:29,NULL,Ravibondravi62@gmail.com,Ravi Kumar,dummy,7349756203,562110,3068,lap-camp-eng
+Lead527,1330,ESFB Website,Karur,Web-CreateLead-20250420123509692,4/20/2025 12:35,NULL,senthilkumar10121987@gmail.com,Nataraja m,dummy,6369420044,639005,3068,lap-camp-eng
+Lead528,20004,ESFB Website,East Delhi,Web-CreateLead-20250420123911602,4/20/2025 12:39,NULL,jatinrajraj36@gmail.com,Jatin,Kumar,8429084449,110096,1005,regular-savings-account
+Lead529,20004,ESFB Website,East Delhi,Web-CreateLead-20250420124029069,4/20/2025 12:40,NULL,jatinrajraj36@gmail.com,Jatin kumar,dummy,8429084449,110096,1005,regular-savings-account
+Lead530,7008,ESFB Website,Patan,Web-CreateLead-20250420125544867,4/20/2025 12:55,NULL,prashantvicky651@gmail.com,Prashant,Mallick,7070742946,854311,1005,regular-savings-account
+Lead531,1090,ESFB Website,Kanyakumari,Web-CreateLead-20250420130105696,4/20/2025 13:01,NULL,premarpremar201@gmail.com,R Prema,R Prema,9042630213,629403,7993,loan-finance-msme-loan
+Lead532,1090,ESFB Website,Kanyakumari,Web-CreateLead-20250420130200832,4/20/2025 13:02,NULL,premarpremar201@gmail.com,R Prema,R Prema,9042630213,629403,7993,loan-finance-msme-loan
+Lead533,17008,ESFB Website,Agra,Web-CreateLead-20250420131127368,4/20/2025 13:11,NULL,ritikk04154@gmail.com,Ritik,Walya,9082695690,209801,1005,regular-savings-account
+Lead534,4013,ESFB Website,Kurnool,Web-CreateLead-20250420131228795,4/20/2025 13:12,NULL,madhukrishna7254@gmail.com,Madhu Krishna,dummy,8500017254,518452,3068,lap-camp-eng
+Lead535,2006,ESFB Website,Thrissur,Web-CreateLead-20250420131247510,4/20/2025 13:12,NULL,Mohammedhananat@gmail.com,Mohammed,Hanan,8606594408,680020,3068,credit-card
+Lead536,14041,ESFB Website,Guna,Web-CreateLead-20250420131545732,4/20/2025 13:15,NULL,ritikkewat135@gmail.com,Ritik,Kewat,7489774116,473001,3068,credit-card
+Lead537,16060,ESFB Website,Jhunjhunu,Web-CreateLead-20250420131949936,4/20/2025 13:19,NULL,gippysiradhana6377@gmail.com,Ganesh,Kumar,8899192568,333503,1005,regular-savings-account
+Lead538,3073,ESFB Website,Hassan,Web-CreateLead-20250420132331586,4/20/2025 13:23,NULL,kutubuddina65@gmail.com,Md Kutubuddin,Ahmed,9148342415,573217,7993,loan-finance-msme-loan
+Lead539,1101,ESFB Website,Erode,Web-CreateLead-20250420133722041,4/20/2025 13:37,NULL,ganeshkumarganeshkumar92459@gmail,GANESH KUMAR NATARAJAN,dummy,8526948679,638506,3068,
+Lead540,1143,ESFB Website,Salem,Web-CreateLead-20250420134158517,4/20/2025 13:41,NULL,powerraja1985@gmail.com,Maheswaram,dummy,9080704520,636109,3068,lap-camp-eng
+Lead541,16052,ESFB Website,Jodhpur,Web-CreateLead-20250420134630537,4/20/2025 13:46,NULL,deepakkhichi444@gmail.com,Deepak,khichi,9166067836,342001,9003,personal-loan
+Lead542,3091,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420134653082,4/20/2025 13:46,NULL,debjyotidutta.d@gmail.com,Debjyoti,Dutta,7890189759,700014,1005,regular-savings-account
+Lead543,1223,ESFB Website,Karaikal,Web-CreateLead-20250420134716962,4/20/2025 13:47,NULL,sahulfuji@gmail.com,Sahul hameed,dummy,7094740600,609604,3068,lap-camp-eng
+Lead544,1184,ESFB Website,Ranipet,Web-CreateLead-20250420135115226,4/20/2025 13:51,NULL,prabhu3759@gmail.com,Vprabhu,dummy,7845503759,632518,3068,lap-camp-eng
+Lead545,,ESFB Website,Mumbai,Web-CreateLead-20250420135133101,4/20/2025 13:51,NULL,Faizkhan22511@gmail.com,Faizan,Khan,9987929144,400703,1005,regular-savings-account
+Lead546,1220,ESFB Website,Vellore,Web-CreateLead-20250420135254163,4/20/2025 13:52,NULL,prabujayasri66@gmail.com,Prabu Jayasri,dummy,6381172131,602608,3068,lap-camp-eng
+Lead547,1220,ESFB Website,Vellore,Web-CreateLead-20250420135258666,4/20/2025 13:52,NULL,prabujayasri66@gmail.com,Prabu Jayasri,dummy,6381172131,602608,3068,lap-camp-eng
+Lead548,1220,ESFB Website,Vellore,Web-CreateLead-20250420135313733,4/20/2025 13:53,NULL,prabujayasri66@gmail.com,Prabu Jayasri,dummy,6381172131,602608,3068,lap-camp-eng
+Lead549,1220,ESFB Website,Vellore,Web-CreateLead-20250420135317772,4/20/2025 13:53,NULL,prabujayasri66@gmail.com,Prabu Jayasri,dummy,6381172131,602608,3068,lap-camp-eng
+Lead550,1354,ESFB Website,Coimbatore,Web-CreateLead-20250420135324509,4/20/2025 13:53,NULL,mahesomu1997@gmail.com,Maheswari,Somu,8610189463,641046,3036,fixed-deposit
+Lead551,1220,ESFB Website,Vellore,Web-CreateLead-20250420135327192,4/20/2025 13:53,NULL,prabujayasri66@gmail.com,Prabu Jayasri,dummy,6381172131,602608,3068,lap-camp-eng
+Lead552,1343,ESFB Website,Tiruppur,Web-CreateLead-20250420140104273,4/20/2025 14:01,NULL,muhammadmusthakali@gmail.com,Muhammad Musthak Ali,dummy,8531927475,641604,3068,lap-camp-eng
+Lead553,1343,ESFB Website,Tiruppur,Web-CreateLead-20250420140114092,4/20/2025 14:01,NULL,muhammadmusthakali@gmail.com,Muhammad Musthak Ali,dummy,8531927475,641604,3068,lap-camp-eng
+Lead554,1027,ESFB Website,Chennai,Web-CreateLead-20250420140834862,4/20/2025 14:08,NULL,santhoshkannan1272001@gmail.com,M Santhosh,Kannan,8015636650,600114,1005,regular-savings-account
+Lead555,16028,ESFB Website,ALWAR,Web-CreateLead-20250420141456635,4/20/2025 14:14,NULL,kamleshkumar958743@gamil.com,Kamlesh kumar,dummy,9587432291,301001,3068,Credit-card
+Lead556,1027,ESFB Website,Chennai,Web-CreateLead-20250420141737892,4/20/2025 14:17,NULL,Santhoshkannan1272001@gmail.com,M Santhosh,Kannan,8015636650,600114,7031,micro-finance
+Lead557,16001,ESFB Website,Jaipur,Web-CreateLead-20250420142329085,4/20/2025 14:23,NULL,rishikesh303501@gmail.com,RISHI KESH,MEENA,7791974091,303501,1048,enjoi-savings-account
+Lead558,17005,ESFB Website,Lucknow,Web-CreateLead-20250420142546100,4/20/2025 14:25,NULL,khalikali9721@gmail.com,Mohammad,Khalik,9721372749,225124,1005,regular-savings-account
+Lead559,5006,ESFB Website,Hyderabad,Web-CreateLead-20250420144954523,4/20/2025 14:49,NULL,kalahastipushkar9603@gmail.com,KALAHASTI PUSHKAR,Naidu,9704136180,500062,1005,regular-savings-account
+Lead560,1231,ESFB Website,Coimbatore,Web-CreateLead-20250420145204892,4/20/2025 14:52,NULL,kamalmani8818@gmail.com,MANIKANDAN C,dummy,8220769119,641105,3068,lap-camp-eng
+Lead561,5009,ESFB Website,Hyderabad,Web-CreateLead-20250420150057413,4/20/2025 15:00,NULL,srinivas.patnaik2@gmail.com,Srinivas,Patnaik,6478034383,500085,1052,nro-rupee-savings-account
+Lead562,20001,ESFB Website,North-West Delhi,Web-CreateLead-20250420151944883,4/20/2025 15:19,NULL,Nasir.shaikh325@gmail.com,Mohammad,Ahmad,9625467523,110086,3068,my-current-account
+Lead563,3038,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420153642010,4/20/2025 15:36,NULL,syedwasi2468@gmail.com,Farhana,Begum,8660022767,560061,1005,regular-savings-account
+Lead564,4003,ESFB Website,Visakhapatnam,Web-CreateLead-20250420153824218,4/20/2025 15:38,NULL,santhoshmummina99@gmail.com,santhosh kumar,dummy,8106607890,530044,3068,lap-camp-eng
+Lead565,7016,ESFB Website,Rajkot,Web-CreateLead-20250420155200362,4/20/2025 15:52,NULL,kmahebub06@gmail.com,MAHEBUB,BALA HAJAM,8141284361,360022,9101,elite-savings-account
+Lead566,3109,ESFB Website,Bengaluru Rural,Web-CreateLead-20250420155842339,4/20/2025 15:58,NULL,sumatiambi2003@gmail.com,Sumati Subhas,Ambi,8660784561,562114,1005,regular-savings-account
+Lead567,3066,ESFB Website,Chikkamagaluru,Web-CreateLead-20250420160245908,4/20/2025 16:02,NULL,chethanchethu123@gmail,Chethan b n,dummy,8088343085,577112,3068,ISDcode=null
+Lead568,5002,ESFB Website,Hyderabad,Web-CreateLead-20250420162331777,4/20/2025 16:23,NULL,silverkidspublication@gmail.com,Mudiyam,Ayansh Reddy,9666629192,501510,1048,enjoi-savings-account
+Lead569,17006,ESFB Website,Meerut,Web-CreateLead-20250420162446756,4/20/2025 16:24,NULL,ranavinay2021@gmail.com,Vinay,Rana,8077071442,250001,7811,commercial-vehicle-finance
+Lead570,1131,ESFB Website,Chennai,Web-CreateLead-20250420162840490,4/20/2025 16:28,NULL,babu.mohan7@gmail.com,MOHAN,BABU,7010908179,600078,7091,affordable-home-loan
+Lead571,20001,ESFB Website,North-West Delhi,Web-CreateLead-20250420163223633,4/20/2025 16:32,NULL,Ishwarparshadgoyal@gmail.com,ISHWAR,GOYAL,8130449053,110086,1005,regular-savings-account
+Lead572,15005,ESFB Website,Chandigarh,Web-CreateLead-20250420163244595,4/20/2025 16:32,NULL,raghavaggarwal527@gmail.com,Raghav,Aggarwal,9888558601,160020,3068,credit-card
+Lead573,3091,ESFB Website,Bengaluru Urban,Web-CreateLead-20250420163604039,4/20/2025 16:36,NULL,murugeshpragathi2551@gmail.com,MURUGESH PRAGATHI,dummy,9513132551,560017,3068,lap-camp-eng
+Lead574,1004,ESFB Website,Chennai,Web-CreateLead-20250420164437897,4/20/2025 16:44,NULL,sudha2698148@gmail.com,Sudharsan,Vijayakumar,7200442262,600100,1005,regular-savings-account
+Lead575,1153,ESFB Website,Tirupathur,Web-CreateLead-20250420164851889,4/20/2025 16:48,NULL,azarudinsathiqbasha1994@gmail.com,AZARUDIN,SATHIQBASHA,8072921631,635601,1005,regular-savings-account
+Lead576,1070,ESFB Website,Tenkasi,Web-CreateLead-20250420165205343,4/20/2025 16:52,NULL,johnmuthiah3@gmil.com,Johnmuthiah,dummy,9345250588,627851,3068,lap-camp-eng
+Lead577,1017,ESFB Website,Tiruchirapalli,Web-CreateLead-20250420165820285,4/20/2025 16:58,NULL,anasuyapradeep83@gmail.com,Anasuyacnair,dummy,9600754088,620003,3068,Fixed-Deposit
+Lead578,5006,ESFB Website,Hyderabad,Web-CreateLead-20250420170006257,4/20/2025 17:00,NULL,nareshnayak671@gmail.com,Banoth Naresh,dummy,8143933665,508116,3068,lap-camp-eng
+Lead579,5006,ESFB Website,Hyderabad,Web-CreateLead-20250420170157250,4/20/2025 17:01,NULL,nakkasivakrishnaveni5@gmail.com,Nakka,Ganapathirao,9398052316,500083,1005,regular-savings-account
+Lead580,5006,ESFB Website,Hyderabad,Web-CreateLead-20250420170252402,4/20/2025 17:02,NULL,nareshnayak671@gmail.com,Banoth Naresh,dummy,8143933665,508116,3068,lap-camp-eng
+Lead581,1060,ESFB Website,Tiruchirapalli,Web-CreateLead-20250420172756042,4/20/2025 17:27,NULL,ganeshkncet@gmail.com,Ganesan,Saravanan,9952238837,621211,9101,elite-savings-account
+Lead582,1035,ESFB Website,Coimbatore,Web-CreateLead-20250420172844473,4/20/2025 17:28,NULL,canikissyou3086@gmail.com,Suresh,dummy,9790370108,642127,3068,lap-camp-eng
+Lead583,3087,ESFB Website,Kolar,Web-CreateLead-20250420172852899,4/20/2025 17:28,NULL,awezk077@gmail.com,Awez,Khan,9036262077,563131,2002,current-account
+Lead584,1133,ESFB Website,Pudukkottai,Web-CreateLead-20250420173056871,4/20/2025 17:30,NULL,leelashree01@gmail.com,Muthu Kumaran,dummy,9994168683,614616,3068,lap-camp-eng
+Lead585,4010,ESFB Website,Kakinada,Web-CreateLead-20250420174351322,4/20/2025 17:43,NULL,rishiagrawat76@gmail.com,BHIMDAS,Vaishnv,7337416930,533001,3068,credit-card
+Lead586,1131,ESFB Website,Chennai,Web-CreateLead-20250420174917338,4/20/2025 17:49,NULL,illayarajan.16@gmail.com,Mages,wari,9597903635,600078,1005,regular-savings-account
+Lead587,14007,ESFB Website,Burhanpur,Web-CreateLead-20250420175114872,4/20/2025 17:51,NULL,suhelkhan1518@gmail.com,Suhail,Suhail,9352015884,321205,1005,regular-savings-account
+Lead588,14007,ESFB Website,Burhanpur,Web-CreateLead-20250420175207711,4/20/2025 17:52,NULL,suhelkhan1518@gmail.com,Suhail,dummy,9352015884,321205,1005,regular-savings-account
+Lead589,17007,ESFB Website,Kanpur Nagar,Web-CreateLead-20250420180139698,4/20/2025 18:01,NULL,SHASHWATTRIVEDI99@GMAIL.COM,Suresh,Trivedi,9918181568,208011,1005,regular-savings-account
+Lead590,1294,ESFB Website,Tenkasi,Web-CreateLead-20250420181356814,4/20/2025 18:13,NULL,satheeshkumar2839@gmail.com,Satheesh,kumar,9345655436,627756,9101,elite-savings-account
+Lead591,14061,ESFB Website,Chhindwara,Web-CreateLead-20250420182248252,4/20/2025 18:22,NULL,aaveshshekh15@gmail.com,Savan kumar kumre,dummy,8959969617,480457,1005,regular-savings-account
